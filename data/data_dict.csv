@@ -1,0 +1,1536 @@
+"","Variable Name","Description","X__1","Values","Notes"
+"1",NA,NA,NA,NA,NA
+"2","Subsid","Unique ID",NA,NA,"Available from 2011 onwards"
+"3","weight","Weighting factor",NA,NA,"Available from 2011 onwards"
+"4","ret","Household completed the survey in previous year",NA,NA,"Available from 2012 onwards"
+"5",NA,NA,NA,NA,NA
+"6","sex","Sex",1,"male","Available from 2011 onwards"
+"7",NA,NA,2,"female",NA
+"8","tenure","Housing tenure",1,"Outright owner","Available from 2011 onwards"
+"9",NA,NA,2,"Mortgagor",NA
+"10",NA,NA,3,"Local authority rented",NA
+"11",NA,NA,4,"Housing association rented",NA
+"12",NA,NA,5,"Private rented",NA
+"13",NA,NA,8,"Other",NA
+"14","soc","Social grade",NA,"A","Available 2012-2013"
+"15",NA,NA,NA,"B",NA
+"16",NA,NA,NA,"C1",NA
+"17",NA,NA,NA,"C2",NA
+"18",NA,NA,NA,"D",NA
+"19",NA,NA,NA,"E",NA
+"20",NA,NA,NA,"F",NA
+"21","age","Age",NA,"continuous variable","Available  from 2011 onwards"
+"22","age_grp","Age groups",1,"18-24","Available  from 2011 onwards"
+"23",NA,NA,2,"25-34",NA
+"24",NA,NA,3,"35-44",NA
+"25",NA,NA,4,"45-54",NA
+"26",NA,NA,5,"55-64",NA
+"27",NA,NA,6,"65+",NA
+"28","region","Region",1,"London (Inner & Outer)","Available from 2011 onwards"
+"29",NA,NA,3,"Rest of South East",NA
+"30",NA,NA,4,"South West",NA
+"31",NA,NA,5,"East Anglia",NA
+"32",NA,NA,6,"East Midlands",NA
+"33",NA,NA,7,"West Midlands",NA
+"34",NA,NA,9,"North West",NA
+"35",NA,NA,12,"Yorkshire",NA
+"36",NA,NA,15,"North West",NA
+"37",NA,NA,17,"Wales",NA
+"38",NA,NA,18,"Scotland",NA
+"39","pubsecty","Does your household gain more than half of its income from work for the public sector (by this we mean working directly for the public sector or for industries or services that mainly depend on contracts with the government for their business activity)?",1,"Yes","Available 2011-2013"
+"40",NA,NA,2,"No","Available in 2015"
+"41",NA,NA,NA,"Don't know",NA
+"42",NA,NA,NA,"Prefer not to state",NA
+"43","mastat","Marital status",1,"Married or living as couple","Available from 2012-2013"
+"44",NA,NA,2,"Widowed/divorced/seperated",NA
+"45",NA,NA,3,"Never married",NA
+"46","jbstat","Working status of respondent",1,"self employed","Available from 2011 onwards"
+"47",NA,NA,2,"in paid employment",NA
+"48",NA,NA,3,"unemployed",NA
+"49",NA,NA,4,"retired",NA
+"50",NA,NA,6,"full time student",NA
+"51",NA,NA,7,"not in work - long-term illness or disability",NA
+"52",NA,NA,10,"something else",NA
+"53","educ","What is the highest educational or school qualification you have obtained?",NA,"GCSE/O-Level/CSE","Available from 2013"
+"54",NA,NA,NA,"Vocational qualifications (=NVQ1+2)",NA
+"55",NA,NA,NA,"A-Level or equivalent (=NVQ3)",NA
+"56",NA,NA,NA,"Bachelor Degree or equivalent (=NVQ4)",NA
+"57",NA,NA,NA,"Masters, PHD or equivalent",NA
+"58",NA,NA,NA,"Other",NA
+"59",NA,NA,NA,"No formal qualifications",NA
+"60",NA,NA,NA,"Still studying",NA
+"61","huresp","Are you mainly or jointly responsible for the financial decision making in the household?",0,"No","Available from 2011 onwards"
+"62",NA,NA,1,"Yes",NA
+"63","fihhyr2","Pre-tax income",1,"<£4500","Available from 2011-2013"
+"64",NA,NA,2,"£4500-£6499",NA
+"65",NA,NA,3,"£6500-£7499",NA
+"66",NA,NA,4,"£7500-£9499",NA
+"67",NA,NA,5,"£9500-£11499",NA
+"68",NA,NA,6,"£11500-£13499",NA
+"69",NA,NA,7,"£13500-£15499",NA
+"70",NA,NA,8,"£15500-£17499",NA
+"71",NA,NA,9,"£17500-£24999",NA
+"72",NA,NA,10,"£25000-£29999",NA
+"73",NA,NA,NA,"£30000-£39999",NA
+"74",NA,NA,12,"£40000-£49999",NA
+"75",NA,NA,13,"£50,000-£74,999",NA
+"76",NA,NA,14,"£75000-£99999",NA
+"77",NA,NA,15,">=£100000",NA
+"78","fihhyr2_m","Pre-tax income (continuous measure)",NA,"£ []","Available from 2014"
+"79",NA,NA,NA,NA,"From 2015 different versions of income questions have been used to calculate total household income.  Please  see ""incomequestion"" variable for further information."
+"80","dfihhyr","How much of your monthly income would you say your household has left after paying tax, national insurance, housing costs (eg. rent, mortgage repayments, council tax), loan repayments (eg. Personal loans, credit cards) and bills (eg. Electricity)",1,"<£200","Available from 2011-2013"
+"81",NA,NA,2,"£200-£299",NA
+"82",NA,NA,3,"£300-£399",NA
+"83",NA,NA,4,"£400-£499",NA
+"84",NA,NA,5,"£500-£599",NA
+"85",NA,NA,6,"£600-£699",NA
+"86",NA,NA,7,"£700-£799",NA
+"87",NA,NA,8,"£800-£899",NA
+"88",NA,NA,9,"£900-£999",NA
+"89",NA,NA,10,"£1000-£1199",NA
+"90",NA,NA,11,"£1200-£1399",NA
+"91",NA,NA,12,"£1400-£1599",NA
+"92",NA,NA,13,"£1600-£1799",NA
+"93",NA,NA,14,"£1800-£1999",NA
+"94",NA,NA,15,"£2000-£2999",NA
+"95",NA,NA,16,"£3000-£3999",NA
+"96",NA,NA,17,"£4000-£4999",NA
+"97",NA,NA,18,">=£5000",NA
+"98","dfihhyr_m","Post-tax monthly income (continuous measure)",NA,"£ []","Available in 2014"
+"99","dfihhyrchg","And how much would you say that your monthly left over income has changed over the past year?",1,"Gone down by more than £100 per month","Available in 2011 and 2012"
+"100",NA,NA,2,"Gone down by between £50 and £100 per month",NA
+"101",NA,NA,3,"Gone down by up to £50 per month",NA
+"102",NA,NA,4,"Roughly the same",NA
+"103",NA,NA,5,"Gone up by up to £50 per month",NA
+"104",NA,NA,6,"Gone up by between £50 and £100 per month",NA
+"105",NA,NA,7,"Gone up by more than £100 per month",NA
+"106","saveamount","How much of your household monthly income would you say that you save every month?",1,"None","Available from 2011-2013"
+"107",NA,NA,2,"£1-£24",NA
+"108",NA,NA,3,"£25-£49",NA
+"109",NA,NA,4,"£50-£99",NA
+"110",NA,NA,5,"£100-£149",NA
+"111",NA,NA,6,"£150-£199",NA
+"112",NA,NA,7,"£200 - £249",NA
+"113",NA,NA,8,"£250 - £299",NA
+"114",NA,NA,9,"£300 - £349",NA
+"115",NA,NA,10,"£350 - £399",NA
+"116",NA,NA,11,"£400 - £449",NA
+"117",NA,NA,12,"£450 - £499",NA
+"118",NA,NA,13,"£500 - £599",NA
+"119",NA,NA,14,"£600 - £699",NA
+"120",NA,NA,15,"£700 - £799",NA
+"121",NA,NA,16,"£800 - £899",NA
+"122",NA,NA,17,"£900 - £999",NA
+"123",NA,NA,18,"£1,000 - £1,499",NA
+"124",NA,NA,19,"£1,500 - £1,999",NA
+"125",NA,NA,20,"£2,000 or more",NA
+"126","saveamount_m","Monthly savings (continuous measure)",NA,"£ []","Available from 2014"
+"127","nvesttot","How much do you (or any member of your household) currently have in total, saved up in savings and investments? Include bank /building society savings accounts or bonds, stock and shares, ISAs, Child Trust Funds, NS&I account/bonds and premium bonds. Please exclude any pensions you may have.",1,"None","Available from 2011-2013"
+"128",NA,NA,2,"£1-£499",NA
+"129",NA,NA,3,"£500 - £999",NA
+"130",NA,NA,4,"£1,000 - £1,999",NA
+"131",NA,NA,5,"£2,000 - £2,999",NA
+"132",NA,NA,6,"£3,000 - £3,999",NA
+"133",NA,NA,7,"£4,000 - £4,999",NA
+"134",NA,NA,8,"£5,000 - £5,999",NA
+"135",NA,NA,9,"£6,000 - £6,999",NA
+"136",NA,NA,10,"£7,000 - £7,999",NA
+"137",NA,NA,11,"£8,000 - £8,999",NA
+"138",NA,NA,12,"£9,000 - £9,999",NA
+"139",NA,NA,13,"£10,000 - £12,499",NA
+"140",NA,NA,14,"£12,500 - £14,999",NA
+"141",NA,NA,15,"£15,000 - £17,499",NA
+"142",NA,NA,16,"£17,500 - £19,999",NA
+"143",NA,NA,17,"£20,000 - £24,999",NA
+"144",NA,NA,18,"£25,000 - £29,999",NA
+"145",NA,NA,19,"£30,000 - £34,999",NA
+"146",NA,NA,20,"£35,000 - £39,999",NA
+"147",NA,NA,21,"£40,000 - £44,999",NA
+"148",NA,NA,22,"£45,000 - £49,999",NA
+"149",NA,NA,23,"£50,000 - £74,999",NA
+"150",NA,NA,24,"£75,000 - £99,999",NA
+"151",NA,NA,25,"£100,000 - £149,999",NA
+"152",NA,NA,26,"More than £150,000",NA
+"153","nvesttot_m","Total amount of deposits and savings (continuous measure)",NA,"£ []","Available from 2014"
+"154","savingch","Over the next year are you planning to change the amount of money you save?",1,"Decrease by £300 or more a month","Available from 2011 to 2013"
+"155",NA,NA,2,"Decrease by £200-£299 a month",NA
+"156",NA,NA,3,"Decrease by £150-£199 a month",NA
+"157",NA,NA,4,"Decrease by £100-£149 a month",NA
+"158",NA,NA,5,"Decrease by £50-£99 a month",NA
+"159",NA,NA,6,"Decrease by less than £50 a month",NA
+"160",NA,NA,7,"Don't plan to change my monthly saving",NA
+"161",NA,NA,8,"Increase by less than £50 a month",NA
+"162",NA,NA,9,"Increase by £50-£99 a month",NA
+"163",NA,NA,10,"Increase by £100-£149 a month",NA
+"164",NA,NA,11,"Increase by £150-£199 a month",NA
+"165",NA,NA,12,"Increase by £200-£299 a month",NA
+"166",NA,NA,13,"Increase by £300 or more a month",NA
+"167","savebcs1","What would you say is the main factor driving this increase? MAX 4 RESPONSES",1,"I am worried about future tax increases","Available from 2011 to 2013 and in 2016"
+"168","savebcs2","Asked if savingch was an increase",2,"Fear of reducancy / job insecurity",NA
+"169","savebcs3",NA,3,"I am worried about future interest rate increases",NA
+"170","savebcs4",NA,4,"To make up for the fact that the value of my house or the value of my investments has fallen",NA
+"171","savebcs5",NA,5,"Less guranteed monthly income",NA
+"172","savebcs6",NA,6,"I have extra cash from a decrease in mortgage repayments",NA
+"173","savebcs7",NA,7,"I have extra cash from increased income / second job / inheritance / lower bills",NA
+"174","savebcs8",NA,8,"I am saving for a deposit on house or flat",NA
+"175","savebcs9",NA,9,"I am saving for a big item, e.g. car, holiday, home improvements, etc",NA
+"176","savebcs10",NA,10,"I am saving for retirement",NA
+"177","savebcs11",NA,11,"I am saving for personal commitments e.g. marriage, children's education, long term care",NA
+"178","savebcs12",NA,12,"I am trying to reduce my debts",NA
+"179","savebcs13",NA,NA,"Other",NA
+"180","savebcs14",NA,13,"I am worried about developments in the euro area (included 2012-13)",NA
+"181","savebcs15",NA,13,"I am worried about the effects of the UK leaving the EU (included 2016)",NA
+"182","desavebcs1","What would you say is the main factor driving this decrease? MAX 4 RESPONSES",1,"I will be unable to save as much because of lower income","Available from 2011 to 2013 and in 2016"
+"183","desavebcs2","Asked if savingch was a decrease",2,"I will be unable to save as much because of the higher cost of essentials like food and bills",NA
+"184","desavebcs3",NA,3,"I will not save as much because I have bought the item I was saving for",NA
+"185","desavebcs4",NA,4,"I will not save as much because I now have enough in saving accounts and other assets",NA
+"186","desavebcs5",NA,5,"I will not save as much because of the low level of interest rates",NA
+"187","desavebcs6",NA,6,"Other",NA
+"188","emergency","Do you feel you have enough money set aside for emergencies?",1,"Yes","Available from 2012-2014 and in 2016"
+"189",NA,NA,2,"No",NA
+"190",NA,NA,NA,"Prefer not to state",NA
+"191",NA,NA,3,"Don't know",NA
+"192","emerchange","Has the amount of money you feel is necessary to deal with emergencies changed relative to the same time last year ?",1,"Increased","Available in 2012"
+"193",NA,NA,2,"Stayed the same",NA
+"194",NA,NA,NA,"Decreased",NA
+"195",NA,NA,NA,"Don't know",NA
+"196",NA,NA,3,"Prefer not to state",NA
+"197","hsval","About how much would you expect to get from your main home if you sold it today?",1,"<£49000","Available from 2011-2013"
+"198",NA,NA,2,"£50,000-£74,999",NA
+"199",NA,"(asked separarely for mortgagors and households owned outright - combined into this variable)",3,"£75,000-£99,999",NA
+"200",NA,NA,4,"£100,000-£124,999",NA
+"201",NA,NA,5,"£125,000-£149,999",NA
+"202",NA,NA,6,"£150,000-£174,999",NA
+"203",NA,NA,7,"£175,000-£199,999",NA
+"204",NA,NA,8,"£200,000-£224,999",NA
+"205",NA,NA,9,"£225,000-£249,999",NA
+"206",NA,NA,10,"£250,000-£274,999",NA
+"207",NA,NA,11,"£275,000-£299,999",NA
+"208",NA,NA,12,"£300,000-£349,999",NA
+"209",NA,NA,13,"£350,000-£399,999",NA
+"210",NA,NA,14,"£400,000-£449,999",NA
+"211",NA,NA,15,"£450,000-£499,999",NA
+"212",NA,NA,16,"£500,000-£599,999",NA
+"213",NA,NA,17,"£600,000-£699,999",NA
+"214",NA,NA,18,"£700,000-£799,999",NA
+"215",NA,NA,19,"£800,000-£899,999",NA
+"216",NA,NA,20,"£900,000-£999,999",NA
+"217",NA,NA,21,"£1,000,000-£1,999,999",NA
+"218",NA,NA,22,">=£2,000,000",NA
+"219","hsval_m","House value (continuous measure)",NA,"£ []","Available from 2014"
+"220","betterworse2006","Would you say you are financially better off or worse off now than you would have expected at the end of 2006, before the start of the financial crisis?",NA,"Much better off","Available in 2013 & 2014"
+"221",NA,NA,NA,"Better off",NA
+"222",NA,NA,NA,"About the same as I expected",NA
+"223",NA,NA,NA,"Worse off",NA
+"224",NA,NA,NA,"Much worse off",NA
+"225",NA,NA,NA,"Don't know",NA
+"226","betterworse2020","Do you think your household will be better off or worse off in another seven year's time (at the end of 2020) than you are now?",NA,"Much better off","Available in 2013"
+"227",NA,NA,NA,"Better off",NA
+"228",NA,NA,NA,"About the same as I expected",NA
+"229",NA,NA,NA,"Worse off",NA
+"230",NA,NA,NA,"Much worse off",NA
+"231",NA,NA,NA,"Don't know",NA
+"232","mg1tot","Roughly how much is left to pay on your current mortgage(s) and secured loan(s) on your home?",1,"<£10,000","Available from 2011-2013"
+"233",NA,NA,2,"£10,000-£19,999",NA
+"234",NA,NA,3,"£20,000-£29,999",NA
+"235",NA,NA,4,"£30,000-£39,999",NA
+"236",NA,NA,5,"£40,000-£49,999",NA
+"237",NA,NA,6,"£50,000-£59,999",NA
+"238",NA,NA,7,"£60,000-£69,999",NA
+"239",NA,NA,8,"£70,000-£79,999",NA
+"240",NA,NA,9,"£80,000-£89,999",NA
+"241",NA,NA,10,"£90,000-£99,999",NA
+"242",NA,NA,11,"£100,000-£109,999",NA
+"243",NA,NA,12,"£110,000-£129,999",NA
+"244",NA,NA,13,"£130,000-£149,999",NA
+"245",NA,NA,14,"£150,000-£169,999",NA
+"246",NA,NA,15,"£170,000-£189,999",NA
+"247",NA,NA,16,"£190,000-£209,999",NA
+"248",NA,NA,17,"£210,000-£229,999",NA
+"249",NA,NA,18,"£230,000-£249,999",NA
+"250",NA,NA,19,"£250,000-£274,999",NA
+"251",NA,NA,20,"£275,000-£299,999",NA
+"252",NA,NA,21,"£300,000-£399,999",NA
+"253",NA,NA,22,"£400,000-£499,999",NA
+"254",NA,NA,23,"£500,000-£749,999",NA
+"255",NA,NA,24,"£750,000-£999,999",NA
+"256",NA,NA,25,">=£1,000,000",NA
+"257","mg1tot_m","Outstanding mortgage (continuous measure)",NA,"£ []","Available from 2014"
+"258","xpmg","How much was your last monthly instalment on the mortgage(s) or loan(s) related to your home?",1,"<£100","Available from 2011-2013"
+"259",NA,NA,2,"£100-£149",NA
+"260",NA,NA,3,"£150-£199",NA
+"261",NA,NA,4,"£200-£249",NA
+"262",NA,NA,5,"£250-£299",NA
+"263",NA,NA,6,"£300-£349",NA
+"264",NA,NA,7,"£350-£399",NA
+"265",NA,NA,8,"£400-£449",NA
+"266",NA,NA,9,"£450-£499",NA
+"267",NA,NA,10,"£500-£549",NA
+"268",NA,NA,11,"£550-£599",NA
+"269",NA,NA,12,"£600-£649",NA
+"270",NA,NA,13,"£650-£699",NA
+"271",NA,NA,14,"£700-£749",NA
+"272",NA,NA,15,"£750-£799",NA
+"273",NA,NA,16,"£800-£849",NA
+"274",NA,NA,17,"£850-£899",NA
+"275",NA,NA,18,"£900-£949",NA
+"276",NA,NA,19,"£950-£999",NA
+"277",NA,NA,20,"£1,000-£1,249",NA
+"278",NA,NA,21,"£1,250-£1,499",NA
+"279",NA,NA,22,"£1,500-£1,749",NA
+"280",NA,NA,23,"£1,750-£1,999",NA
+"281",NA,NA,24,">=£2,000",NA
+"282","xpmg_m","Last mortgage instalment (continuous measure)",NA,"£ []","Available from 2014"
+"283","intmg","What type of interest rate is being paid on the mortgage or loan?",NA,"Fixed","Available from 2011"
+"284",NA,"(add next to how much was your last monthly repayment on loans)",NA,"Capped",NA
+"285",NA,NA,NA,"Discounted",NA
+"286",NA,NA,NA,"Base rate tracker",NA
+"287",NA,NA,NA,"Standard Variable Rate (SVR)",NA
+"288",NA,NA,NA,"Other (please specify)",NA
+"289",NA,NA,NA,"Don't know",NA
+"290",NA,NA,NA,"Prefer not to state",NA
+"291","brrise","The interest payment on mortgages is often linked to the official interest rate set by the Bank of England.  If the rate was to increase, your monthly payments would also increase.  About how much do you think your monthly mortgage payments could increase for a sustained period without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or request a change to your mortgage?",NA,"£0-49","Available in 2011 and 2013"
+"292",NA,NA,NA,"£50-99",NA
+"293",NA,NA,NA,"£100-149",NA
+"294",NA,NA,NA,"£150-199",NA
+"295",NA,NA,NA,"£200-299",NA
+"296",NA,NA,NA,"£300-399",NA
+"297",NA,NA,NA,"£400-499",NA
+"298",NA,NA,NA,"£500-599",NA
+"299",NA,NA,NA,"£600-699",NA
+"300",NA,NA,NA,"£700-799",NA
+"301",NA,NA,NA,"£800-899",NA
+"302",NA,NA,NA,"£900-999",NA
+"303",NA,NA,NA,"£1000-1499",NA
+"304",NA,NA,NA,"£1500 or more",NA
+"305",NA,NA,NA,"Don't know",NA
+"306",NA,NA,NA,"Prefer not to state",NA
+"307","brrise_f","Although your monthly mortgage payments are currently fixed, we would like to understand the impact if your payments were to increase tomorrow.  
+About how much do you think your monthly mortgage payments could increase for a sustained period without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or request a change to your mortgage?
+",NA,"£0-49","Available in 2013"
+"308",NA,NA,NA,"£50-99",NA
+"309",NA,NA,NA,"£100-149",NA
+"310",NA,NA,NA,"£150-199",NA
+"311",NA,NA,NA,"£200-299",NA
+"312",NA,NA,NA,"£300-399",NA
+"313",NA,NA,NA,"£400-499",NA
+"314",NA,NA,NA,"£500-599",NA
+"315",NA,NA,NA,"£600-699",NA
+"316",NA,NA,NA,"£700-799",NA
+"317",NA,NA,NA,"£800-899",NA
+"318",NA,NA,NA,"£900-999",NA
+"319",NA,NA,NA,"£1000-1499",NA
+"320",NA,NA,NA,"£1500 or more",NA
+"321",NA,NA,NA,"Don't know",NA
+"322",NA,NA,NA,"Prefer not to state",NA
+"323","mlender","Who is your mortgage provider?",NA,"Santander/Abbey","Available in 2013 and 2014"
+"324",NA,NA,NA,"Nationwide",NA
+"325",NA,NA,NA,"Barclays/Woolwich",NA
+"326",NA,NA,NA,"HSBC/First Direct",NA
+"327",NA,NA,NA,"Lloyds TSB/Bank of Scotland/Cheltenham and Gloucester/Halifax",NA
+"328",NA,NA,NA,"Royal Bank of Scotland/Natwest",NA
+"329",NA,NA,NA,"Co-op/Britannia",NA
+"330",NA,NA,NA,"None of these",NA
+"331",NA,NA,NA,"Don't know",NA
+"332","xphsdf","In the past twelve months, would you say you have had any difficulties paying for your accomodation?",0,"No","Available from 2011 onwards"
+"333",NA,NA,1,"Yes",NA
+"334","us","Do you or your household currently owe any money on the following types of loan or credit agreement? (list: usa-usl)",0,"No","Available from 2011 onwards"
+"335",NA,NA,1,"Yes",NA
+"336",NA,NA,NA,NA,NA
+"337",NA,"“If you expect to pay off your credit card balance in full on the next payment date please do not tick credit card here.",NA,NA,NA
+"338",NA,"If you have credit card borrowing which you do not expect to pay off in full (for example if you only pay off the minimum each month) then leave the box ticked.”",NA,NA,NA
+"339","usa","Unsecured debt instrument: hire purchase",NA,"No","Available from 2011-2015"
+"340","usb","Unsecured debt instrument: personal loan",NA,"Yes","Available from 2011 onwards"
+"341","usc","Unsecured debt instrument: credit card",NA,NA,"Available from 2011 onwards"
+"342","usd","Unsecured debt instrument: mail order purchase",0,NA,"Available from 2011 onwards"
+"343","use","Unsecured debt instrument: DSS social fund loan",1,NA,"Available from 2011 onwards"
+"344","usg","Unsecured debt instrument: something else",NA,NA,"Available from 2011 onwards"
+"345","ush","Unsecured debt instrument: overdraft",NA,NA,"Available from 2011 onwards"
+"346","usi","Unsecured debt instrument: student loan",NA,NA,"Available from 2011 onwards"
+"347","usj","Unsecured debt instrument: store card",NA,NA,"Available from 2011 onwards"
+"348","usk","Unsecured debt instrument: payday loans",NA,NA,"Available from 2012 onwards"
+"349","usa2","Unsecured debt instrument: hire purchase excluding car finance",NA,NA,"Available from 2016 onwards"
+"350","usl","Unsecured debt instrument: car finance (arranged at dealership)",NA,NA,"Available from 2016 onwards"
+"351","ustot","How much money in total does you or your household currently owe on these loans? (any of usa-usk)",1,"<£200","Available from 2011-2013"
+"352",NA,NA,2,"£200-£499",NA
+"353",NA,NA,3,"£500-£999",NA
+"354",NA,"Again, for credit and store cards, please only include the amount you expect to leave unpaid on your next bill. Please try to be as accurate as possible, entering an amount in pounds without any decimals (you do not need to use all the nine spaces for digits).",4,"£1000-£1499","Clarificatoin on credit and store cards added in 2016."
+"355",NA,NA,5,"£1500-£1999",NA
+"356",NA,NA,6,"£2000-£2499",NA
+"357",NA,NA,7,"£2500-£2999",NA
+"358",NA,NA,8,"£3000-£3499",NA
+"359",NA,NA,9,"£3500-£3999",NA
+"360",NA,NA,10,"£4000-£4499",NA
+"361",NA,NA,11,"£4500-£4999",NA
+"362",NA,NA,12,"£5000-£5499",NA
+"363",NA,NA,13,"£5500-£5999",NA
+"364",NA,NA,14,"£6000-£6499",NA
+"365",NA,NA,15,"£6500-£6999",NA
+"366",NA,NA,16,"£7000-£7499",NA
+"367",NA,NA,17,"£7500-£7999",NA
+"368",NA,NA,18,"£8000-£8499",NA
+"369",NA,NA,19,"£8500-£8999",NA
+"370",NA,NA,20,"£9000-£9499",NA
+"371",NA,NA,21,"£9500-£9999",NA
+"372",NA,NA,22,"£10000-£14499",NA
+"373",NA,NA,23,"£15000-£19999",NA
+"374",NA,NA,24,"£20000-£24499",NA
+"375",NA,NA,25,"£25000-£29999",NA
+"376",NA,NA,26,">=£30000",NA
+"377","ustot_m","Unsecured debt (continuous measure)",NA,"£ []","Available from 2014"
+"378","stdebt","And, within this, how much do you or your household currently owe on",NA,"£199 or less","Available in 2013"
+"379",NA,"student loans?",NA,"£200-499",NA
+"380",NA,NA,NA,"£500-999",NA
+"381",NA,NA,NA,"£1000-1499",NA
+"382",NA,NA,NA,"£1500-1999",NA
+"383",NA,NA,NA,"£2000-2499",NA
+"384",NA,NA,NA,"£2500-2999",NA
+"385",NA,NA,NA,"£3000-3499",NA
+"386",NA,NA,NA,"£3500-3999",NA
+"387",NA,NA,NA,"£4000-4499",NA
+"388",NA,NA,NA,"£4500-4999",NA
+"389",NA,NA,NA,"£5000-5499",NA
+"390",NA,NA,NA,"£5500-5999",NA
+"391",NA,NA,NA,"£6000-6499",NA
+"392",NA,NA,NA,"£6500-6999",NA
+"393",NA,NA,NA,"£7000-£7499",NA
+"394",NA,NA,NA,"£7500 -7999",NA
+"395",NA,NA,NA,"£8000 -£8499",NA
+"396",NA,NA,NA,"£8500-£8999",NA
+"397",NA,NA,NA,"£9000 -£9499",NA
+"398",NA,NA,NA,"£9,500 - 9999",NA
+"399",NA,NA,NA,"£10,000 to £14,999",NA
+"400",NA,NA,NA,"£15,000 to £19,999",NA
+"401",NA,NA,NA,"£20,000 to £24,999",NA
+"402",NA,NA,NA,"£25,000 to £29,999",NA
+"403",NA,NA,NA,"£30,000 or more",NA
+"404",NA,NA,NA,"Don’t know",NA
+"405",NA,NA,NA,"Prefer not to state",NA
+"406","stdebt_m","Student debt (continuous measure)",NA,"£ []","Available 2014-2015, 2017"
+"407","xpus","Taking into account of your unsecured debts, how much was your last monthly payment on all of the loans?",1,"<£10","Available from 2011-2013"
+"408",NA,NA,2,"£10-£19",NA
+"409",NA,NA,3,"£20-£29",NA
+"410",NA,NA,4,"£30-£39",NA
+"411",NA,NA,5,"£40-£49",NA
+"412",NA,NA,6,"£50-£59",NA
+"413",NA,NA,7,"£60-£69",NA
+"414",NA,NA,8,"£70-£79",NA
+"415",NA,NA,9,"£80-£89",NA
+"416",NA,NA,10,"£90-£99",NA
+"417",NA,NA,11,"£100-£119",NA
+"418",NA,NA,12,"£120-£139",NA
+"419",NA,NA,13,"£140-£159",NA
+"420",NA,NA,14,"£160-£179",NA
+"421",NA,NA,15,"£180-£199",NA
+"422",NA,NA,16,"£200-£219",NA
+"423",NA,NA,17,"£220-£239",NA
+"424",NA,NA,18,"£240-£259",NA
+"425",NA,NA,19,"£260-£279",NA
+"426",NA,NA,20,"£280-£299",NA
+"427",NA,NA,21,"£300-£349",NA
+"428",NA,NA,22,"£350-£399",NA
+"429",NA,NA,23,"£400-£449",NA
+"430",NA,NA,24,"£450-£499",NA
+"431",NA,NA,25,">£500",NA
+"432","xpus_m","Last monthly repayment on unsecured debts (continuous measure)",NA,"£ []","Available from 2014"
+"433","xphpdf","To what extent is the repayment of these unsecured loans and the interest a financial burden on your household?",1,"A heavy burden","Available from 2011 onwards"
+"434",NA,NA,2,"Somewhat of a burden",NA
+"435",NA,NA,3,"Not a burden",NA
+"436","condebt","How concerned are you about your current level of debt?  Please consider all debt, including any balances on credit /store cards, loans, or secured debt such as your mortgage.",1,"Very concerned","Available from 2012 onwards"
+"437",NA,NA,2,"Somewhat concerned",NA
+"438",NA,NA,3,"Not at all concerned",NA
+"439","whycondebt1","Why are you concerned about your current level of debt?",NA,"I am currently having difficulties keeping up with repayments","Available from 2013"
+"440","whycondebt2",NA,NA,"My current income is lower than I expected it to be when I took out the loan",NA
+"441","whycondebt3",NA,NA,"I am concerned about my ability to make repayments in the future if my repayments increase because of higher interest rates",NA
+"442","whycondebt4",NA,NA,"I am concerned about my ability to make repayments in the future because there is a chance my income could fall",NA
+"443","whycondebt5",NA,NA,"The house that I have borrowed against is worth less than I expected it to be",NA
+"444","whycondebt6",NA,NA,"Banks are unwilling to lend me more money because of my current level of debt",NA
+"445","whycondebt7",NA,NA,"Other",NA
+"446","whycondebt8",NA,NA,"Don’t know",NA
+"447","whycondebt9",NA,NA,"Prefer not to state",NA
+"448","actdebt1","What actions, if any, are you taking to deal with your concerns about your current level of debt? Please select no more than three of the following",1,"Cutting back on spending","Available from 2012  onwards"
+"449","actdebt2",NA,2,"Avoiding getting into any further debt","From 2014 options actdebt10 and actdebt11 were added"
+"450","actdebt3",NA,3,"Making overpayments to clear the debt more quickly",NA
+"451","actdebt4",NA,4,"Working longer hours / taking a second or better paid job",NA
+"452","actdebt5",NA,5,"Getting financial help from family/relatives",NA
+"453","actdebt7",NA,6,"Not taking any action",NA
+"454","actdebt6",NA,7,"Other",NA
+"455","actdebt8",NA,NA,"Don't know",NA
+"456","actdebt9",NA,NA,"Prefer not to state",NA
+"457","actdebt10",NA,NA,"Taking up paid employment myself",NA
+"458","actdebt11",NA,NA,"Someone else in my household would take up paid employment",NA
+"459","changecondebt","How has your concern about your current level of debt changed over the last two years? - changed taken out two in 2013",1,"Increased","Available from 2012 to 2013"
+"460",NA,NA,2,"Stayed the same",NA
+"461",NA,NA,3,"Decreased",NA
+"462","billscc","Which one of the following statements best describes how well your household is keeping up with your bills and/or credit commitments at the moment?",1,"I am keeping up without much difficulty","Available in 2011 and 2012"
+"463",NA,NA,2,"I am keeping up, but it is a struggle from time to time",NA
+"464",NA,NA,3,"I am keeping up, but it is a constant struggle",NA
+"465",NA,NA,4,"I am falling behind on some",NA
+"466",NA,NA,5,"I am having real financial problems and have fallen behind with many",NA
+"467",NA,NA,NA,"Don't know",NA
+"468",NA,NA,NA,"Prefer not to state",NA
+"469","actbillscc1","What actions, if any, are you taking to resolve the difficult you have in keeping up with bill and and / or credit commitments?  Please select no more than three of the following. Max 3 answers.",NA,"Taking out another loan","Available in 2011 and 2012"
+"470","actbillscc2",NA,NA,"Taking out another mortgage on your house",NA
+"471","actbillscc3",NA,NA,"Selling your house",NA
+"472","actbillscc4",NA,NA,"Declaring yourself insolvent i.e. bankruptcy or IVA",NA
+"473","actbillscc5",NA,NA,"Entering into another debt solution such as a debt management plan",NA
+"474","actbillscc6",NA,NA,"Cutting back on spending",NA
+"475","actbillscc7",NA,NA,"Using cash in savings / other assets",NA
+"476","actbillscc8",NA,NA,"Working longer hours / taking a second or better paid job",NA
+"477","actbillscc9",NA,NA,"Getting financial help from family / relatives",NA
+"478","actbillscc10",NA,NA,"Other",NA
+"479","actbillscc11",NA,NA,"Not taking any action",NA
+"480","hscntcr1","Have your been put off spending because you are concerned that you will not be able to get credit when you need it?",0,"Yes","Available from 2011 onwards"
+"481",NA,NA,NA,"No",NA
+"482",NA,NA,NA,"Don't know",NA
+"483",NA,NA,NA,"Prefer not to state",NA
+"484","hscntcr2","Would you like to borrow any more at the moment but find it too expensive or difficult to do so?",NA,"Yes","Available in 2011"
+"485",NA,NA,NA,"No",NA
+"486",NA,NA,NA,"Don't know",NA
+"487",NA,NA,NA,"Prefer not to state",NA
+"488","hscrchg","Have your found it easier or harder to borrow to finance spending than a year ago?",1,"Harder","Available from 2011 to 2013"
+"489",NA,NA,2,"Easier",NA
+"490",NA,NA,3,"The same",NA
+"491","newloan","Have you applied for one of more new loans (including mortgage applications) over the past year?",NA,"Yes","Available from 2012 to 2013"
+"492",NA,NA,NA,"No",NA
+"493",NA,NA,NA,"Don't know",NA
+"494",NA,NA,NA,"Prefer not to state",NA
+"495","outloan","What was the final outcome of your loan application(s)?",NA,"I got the loan(s) I applied for without any difficulty","Available from 2012 to 2013"
+"496",NA,NA,NA,"I eventually got the loan(s) I wanted, but only after some difficulty",NA
+"497",NA,NA,NA,"I got the loan(s) that I applied for, but they were more costly than I had anticipated",NA
+"498",NA,NA,NA,"I decided not to take up the loan(s) I applied for because they were more costly than I had anticipated",NA
+"499",NA,NA,NA,"I was refused the loan(s) or was unable to borrow as much as I would have liked",NA
+"500",NA,NA,NA,"My application is still ongoing",NA
+"501",NA,NA,NA,"Don't know",NA
+"502",NA,NA,NA,"Prefer not to state",NA
+"503","nomortgage","Would you like to buy a property but  are unable to obtain a mortgage?",NA,"Yes","Available from 2013"
+"504",NA,NA,NA,"No",NA
+"505",NA,NA,NA,"Don't know",NA
+"506",NA,NA,NA,"Refused",NA
+"507",NA,NA,NA,"Not applicable",NA
+"508","deposit","Would you like to buy a property but  are unable to obtain a mortgage because of the deposit requirement?",NA,"Yes","Available in 2012"
+"509",NA,NA,NA,"No",NA
+"510",NA,NA,NA,"Don't know",NA
+"511",NA,NA,NA,"Prefer not to state",NA
+"512","deposits_m","Deposit savings (continuous measure)",NA,"£ []","Available from 2014"
+"513","refmortg1","What are the reasons you are unable to obtain a mortgage?",NA,"I don't have a large enough deposit","Available from 2013"
+"514","refmortg2",NA,NA,"I would be unable to afford monthly repayments",NA
+"515","refmortg3",NA,NA,"I might not be able to afford the monthly repayments if interest rates rise",NA
+"516","refmortg4",NA,NA,"My credit record is not strong enough",NA
+"517","refmortg5",NA,NA,"My personal circumstance",NA
+"518","refmortg6",NA,NA,"Other",NA
+"519","refmortg7",NA,NA,"Don't know",NA
+"520","refmortg8",NA,NA,"Prefer not to state",NA
+"521","depositsave","How long have you been saving in order to build up a large enough deposit?",NA,"Haven't started saving yet","Available in 2012"
+"522",NA,NA,NA,"Less than a year",NA
+"523",NA,NA,NA,"1 year",NA
+"524",NA,NA,NA,"2 years",NA
+"525",NA,NA,NA,"3 years",NA
+"526",NA,NA,NA,"4 years",NA
+"527",NA,NA,NA,"5 years",NA
+"528",NA,NA,NA,"6 years",NA
+"529",NA,NA,NA,"7 years",NA
+"530",NA,NA,NA,"8 years",NA
+"531",NA,NA,NA,"More than 8 years",NA
+"532",NA,NA,NA,"Don't know",NA
+"533",NA,NA,NA,"Prefer not to state",NA
+"534","timedeposit","How much longer do you expect to have to save to obtain a large enough deposit to buy a property?",NA,"Less than a year","Available in 2012"
+"535",NA,NA,NA,"1 year",NA
+"536",NA,NA,NA,"2 years",NA
+"537",NA,NA,NA,"3 years",NA
+"538",NA,NA,NA,"4 years",NA
+"539",NA,NA,NA,"5 years",NA
+"540",NA,NA,NA,"6 years",NA
+"541",NA,NA,NA,"7 years",NA
+"542",NA,NA,NA,"8 years",NA
+"543",NA,NA,NA,"More than 8 years",NA
+"544",NA,NA,NA,"Don't know",NA
+"545",NA,NA,NA,"Prefer not to state",NA
+"546","hhincfall","To the best of your knowledge, how likely is it that your household income will fall sharply over the next year or so (for example, because you or someone in your household are made redundant)?",NA,"Not very likely - my household income is very secure","Available from 2013"
+"547",NA,NA,NA,"Not likely, but there is a small chance of  a sharp fall in my household income",NA
+"548",NA,NA,NA,"Quite likely - my household income could fall sharply",NA
+"549",NA,NA,NA,"Don't know",NA
+"550",NA,NA,NA,"Prefer not to state",NA
+"551","conhhinc","Are you more concerned now than a year ago, that your household income will fall sharply over the next year or so?",NA,"Yes","Available from 2012 to 2013"
+"552",NA,NA,NA,"No",NA
+"553",NA,NA,NA,"Don't know",NA
+"554",NA,NA,NA,"Prefer not to state",NA
+"555","fisc_impact1","In 2010, the government announced a set of measures in order to cut the country's budget deficit. Some of these measures have already come into effect. How have these measures affected your household over the past year? MAX 3 ANSWERS",1,"Loss/reduction of my income benefits","Available in 2011 and 2012"
+"556","fisc_impact2",NA,2,"Lost my job or my partner’s job","*Wording of fisc_impact4 changed between 2011 and 2012. In 2011 survey referred to 'lower income'"
+"557","fisc_impact3",NA,3,"There has been a cut back on services which I use/have used",NA
+"558","fisc_impact4",NA,4,"Lower pre-tax employment income","*Available in 2015, with fisc_impact9 and 10 added but due to addition of routing question (fisc_effect) fisc_impact6 and 7 were not options"
+"559","fisc_impact5",NA,5,"Higher taxes",NA
+"560","fisc_impact6",NA,6,"I do not think I have been heavily affected",NA
+"561","fisc_impact7","fisc_impact6 AND fisc_impact7 ARE MUTUTALLY EXCLUSIVE",7,"I have not really thought about it",NA
+"562","fisc_impact8",NA,8,"Other",NA
+"563","fisc_impact9",NA,NA,"Don't know",NA
+"564","fisc_impact10",NA,NA,"Prefer not to state",NA
+"565","fisc11_act1","Which, if any, of the following actions have you taken in response to those measures? Please select just three of the following. MAX 3 ANSWERS",1,"Saved more","Available in 2011 and 2012"
+"566","fisc11_act2",NA,2,"Spent more","Available in 2015 with additional options, fisc11_act7-10"
+"567","fisc11_act3",NA,3,"Looked for and/or found a new job",NA
+"568","fisc11_act4",NA,4,"Worked longer hours / taken a second or better paid job",NA
+"569","fisc11_act5",NA,5,"I have not taken any action",NA
+"570","fisc11_act6","fisc11_act5 IS MUTUALLY EXCLUSIVE",6,"Other",NA
+"571","fisc11_act7",NA,NA,"Saved less",NA
+"572","fisc11_act8",NA,NA,"Spent less",NA
+"573","fisc11_act9",NA,NA,"Don't know",NA
+"574","fisc11_act10",NA,NA,"Prefer not to state",NA
+"575","fisc11_conc1","Some of the government's measures will come into effect over coming years. Which of the following are you most concerned about for the future? MAX 3 ANSWERS",1,"Loss/reduction of my income benefits","Available in 2011 and 2012"
+"576","fisc11_conc2",NA,2,"Losing my job or my partner’s job","*Wording of fisc_impact4 changed between 2011 and 2012. In 2011 survey referred to 'lower income'"
+"577","fisc11_conc3",NA,3,"There might be a cut back on services which I use/have used","Available in 2015 with additional option fisc11_conc9"
+"578","fisc11_conc4",NA,4,"Lower pre-tax employment income",NA
+"579","fisc11_conc5",NA,5,"Higher taxes",NA
+"580","fisc11_conc6","fisc11_conc6 AND fisc11_conc7 ARE MUTUTALLY EXCLUSIVE",6,"I do not think I will be heavily affected",NA
+"581","fisc11_conc7",NA,7,"I have not really thought about it",NA
+"582","fisc11_conc8",NA,8,"Other",NA
+"583","fisc11_conc9",NA,NA,"Prefer not to state",NA
+"584","fisc_likact1","Which, if any of the following actions will you take in response to those measures? MAX 3 ANSWERS",1,"Save more","Available in 2011 and 2012"
+"585","fisc_likact2",NA,2,"Spend more","Available in 2015 with additional options, fisc_likact7-10"
+"586","fisc_likact3",NA,3,"Look for a new job",NA
+"587","fisc_likact4",NA,4,"Work longer hours / take a second or better paid job",NA
+"588","fisc_likact5",NA,5,"I don't plan to take any action but may if the need arises",NA
+"589","fisc_likact6","fisc_likact5 IS MUTUALLY EXCLUSIVE",6,"Other",NA
+"590","fisc_likact7",NA,NA,"Save less",NA
+"591","fisc_likact8",NA,NA,"Spend less",NA
+"592","fisc_likact9",NA,NA,"Don't know",NA
+"593","fisc_likact10",NA,NA,"Prefer not to state",NA
+"594","forebearsec1","Are you or your household currently benefitting from any of the options below to help ease the burden of your mortgage? Please include options that you are benefitting from that were permitted in the original terms of your mortgage as well as those that were not. Do not include any general benefit you may be getting from the current low interest rates.",1,"A (temporary or permanent) switch from a repayment mortgage to an interest only (or part repayment/part interest only) mortgage","Available in 2011 only"
+"595","forebearsec2",NA,2,"A reduction in interest rate offered due to difficulties in making payments",NA
+"596","forebearsec3",NA,3,"Having a (part or full) mortgage payment holiday",NA
+"597","forebearsec4",NA,4,"Having lower monthly payments due to having extended the term of your mortgage in the past",NA
+"598","forebearsec5",NA,5,"Having had mortgage arrears added to your outstanding mortgage balance (capitalisation) in the past",NA
+"599","forebearsec6",NA,6,"Claiming Support for Mortgage Interest (SMI)",NA
+"600","forebearsec7","RANDOMISE ORDERS OF CODES",7,"Another change to the terms of an existing mortgage to help ease the burden of payment",NA
+"601","forebearsec8",NA,8,"None of these  i.e. did not need help to meet payments or did not request / was not granted any of the above",NA
+"602","forebeareffsec","If you had not made this change, which of the following would describe your likely situation?",1,"I would be up to date with my mortgage payments, without much struggle.","Available in 2011 only"
+"603",NA,NA,2,"I would be up to date with my mortgage payments, but it would be a struggle",NA
+"604",NA,"ASKED IF ANY OF forebearsec1-forebearsec7=1",3,"I would be behind on my mortgage payments by less than 6 months of payments",NA
+"605",NA,NA,4,"I would be behind on my mortgage payments by 6 months or more of payments",NA
+"606","forebearunsec1","Are you or your household currently benefitting from any of the following actions / changes to your loan agreement to help ease the burden of your debt (other than mortgage debt)?",1,"A Debt Management Plan (DMP), Debt Relief Order (DRO), Bankruptcy order or IVA","Available in 2011 only"
+"607","forebearunsec2",NA,2,"Making token payments to creditors",NA
+"608","forebearunsec3","RANDOMISE ORDERS OF CODES",3,"Having lower monthly payments due to having extended the term of your loan in the past",NA
+"609","forebearunsec4",NA,4,"Another change to the terms of an existing unsecured loan to help ease the burden of payment",NA
+"610","forebearunsec5",NA,5,"None of the above (did not need help to meet payments or did not request / was not granted any of the above)",NA
+"611","forebeareffunsec","If you had not made this change, which of the following would describe your likely situation?",1,"I would be up to date with my loan payments, without much struggle","Available in 2011 only"
+"612",NA,NA,2,"I would be up to date with my loan payments, but it would be a struggle",NA
+"613",NA,"ASK IF ANY OF forebearunsec1-forebearunsec4=1",3,"I would be behind on my loan payments",NA
+"614","uncert","How certain are you that you know what your household income will be a year from now?",1,"I have a good idea of what my household income will be in a year’s time","Available in 2011 only"
+"615",NA,NA,2,"I have a vague idea of what my household income will be in a year’s time",NA
+"616",NA,NA,3,"I have no idea what my household income will be in a year’s time",NA
+"617","uncertch","And how, if at all, has your certainty about your future household income changed over the past year?",1,"I have become less certain","Available in 2011 only"
+"618",NA,NA,2,"No change",NA
+"619",NA,NA,3,"I have become more certain",NA
+"620","hr_m_resp1","If your monthly mortgage payments were to increase for a sustained period by £x [which is calculated automatically from software as the payment increase under a two percentage point increase in interest rates], how do you think you would respond? Please assume your income would not be any higher unless you take action to increase it.",NA,"Cut back on spending","Available from 2014 to 2015 and in 2017"
+"621","hr_m_resp2",NA,NA,"Reduce the amount put aside as saving each month.",NA
+"622","hr_m_resp3",NA,NA,"Take up paid employment myself",NA
+"623","hr_m_resp4",NA,NA,"Someone else in my household would take up paid employment",NA
+"624","hr_m_resp5",NA,NA,"Work longer hours / take a second or better paid job",NA
+"625","hr_m_resp6","MAX 3 ANSWERS",NA,"Get financial help from family / relatives",NA
+"626","hr_m_resp7","RANDOMISE ORDERS OF 1 to 9",NA,"Request a change to your mortgage with the lender",NA
+"627","hr_m_resp8","ONLY ALLOW 3 TO BE SELECTED IF NOT IN FULL OR PART-TIME PAID EMPLOYMENT OR SELF-EMPLOYED",NA,"Move to a cheaper property",NA
+"628","hr_m_resp9",NA,NA,"Sell your property and rent",NA
+"629","hr_m_resp10",NA,NA,"Other",NA
+"630","hr_m_resp11",NA,NA,"Don’t know",NA
+"631","hr_m_resp12",NA,NA,"Prefer not to state",NA
+"632","hr_m_resp13",NA,NA,"Pay less than the required amount","Available from 2017"
+"633","mgarrears","In the past 12 months have you ever found yourself more than two months behind with your mortgage payments (known as being ‘in arrears’)? Please exclude any pre-arranged payment holidays.",NA,"Yes","Available from 2014"
+"634",NA,NA,NA,"No",NA
+"635",NA,NA,NA,"Don't know",NA
+"636",NA,NA,NA,"Prefer not to state",NA
+"637","hr_us_resp1","If your monthly unsecured loan payments were to increase for a sustained period by £x [which is calculated automatically from software as the payment increase under a two percentage point increase in interest rates], how do you think you would respond? Please assume your income would not be any higher unless you take action to increase it.",NA,"Cut back on spending","Available from 2014 to 2015, and in 2017"
+"638","hr_us_resp2",NA,NA,"Reduce the amount put aside as saving each month",NA
+"639","hr_us_resp3",NA,NA,"Take up paid employment myself",NA
+"640","hr_us_resp4",NA,NA,"Someone else in my household would take up paid employment",NA
+"641","hr_us_resp5",NA,NA,"Work longer hours / take a second or better paid job",NA
+"642","hr_us_resp6","MAX 3 ANSWERS",NA,"Get financial help from family / relatives",NA
+"643","hr_us_resp7","RANDOMISE ORDER OF 1 to 7",NA,"Request a change to your loan with the lender(s)",NA
+"644","hr_us_resp8","ONLY ALLOW 3 TO BE SELECTED IF NOT IN FULL OR PART-TIME PAID EMPLOYMENT OR SELF-EMPLOYED",NA,"Other",NA
+"645","hr_us_resp9","ONLY ASK IF HOLD UNSECURED DEBT>£4,999",NA,"Don’t know",NA
+"646","hr_us_resp10",NA,NA,"Prefer not to state",NA
+"647","hr_us_resp11",NA,NA,"Pay less than the required amount","Available from 2017"
+"648","hr_uspayinc","Increase in unsecured loan repayments if rates rise 2%.",NA,"£ []","Available from 2017"
+"649","expryr","Do you expect to buy a property to live in, or trade up to a more expensive property, within the next twelve months?",NA,"Yes","Available in 2014"
+"650",NA,NA,NA,"No",NA
+"651",NA,NA,NA,"Don't know",NA
+"652",NA,NA,NA,"Prefer not to state",NA
+"653","hr_sav_resp1","If the monthly interest you receive on your savings were to increase for a sustained period by £x [which is calculated automatically from software as the payment increase under a two percentage point increase in interest rates], how do you think you would respond? Please assume your other sources of income would not change.",NA,"Increase spending","Available from 2014 to 2015"
+"654","hr_sav_resp2",NA,NA,"Work fewer hours",NA
+"655","hr_sav_resp3",NA,NA,"Put more money into savings accounts",NA
+"656","hr_sav_resp4",NA,NA,"Other",NA
+"657","hr_sav_resp5",NA,NA,"Do nothing (i.e. allow the additional interest to accumulate in my saving account)",NA
+"658","hr_sav_resp6","RANDOMISE ORDER OF 1 to 3",NA,"Don’t know",NA
+"659","hr_sav_resp7","ONLY ASK IF HOLD SAVINGS>£4,999",NA,"Prefer not to state",NA
+"660","hr_saviinc","Increase in savings interest if rates rise 2%.",NA,"£ []","Available from 2017"
+"661","hourswilling","Earlier you mentioned that you are currently unemployed and seeking work. About how many hours in a week do you think you would be able to work?",NA,"Hours []","Available in 2014"
+"662",NA,NA,NA,"Don't know",NA
+"663",NA,"ASK IF UNEMPLOYED AND SEEKING WORK",NA,"Prefer not to state",NA
+"664","unemppayexp","What weekly take-home pay would you expect to get for working [INSERT HOURS FROM 'housrwilling'] hours per week?",NA,"£ []","Available in 2014"
+"665",NA,NA,NA,"Don't know",NA
+"666",NA,"ASK UNLESS DON’T KNOW OR 0 AT 'hourswilling'",NA,"Prefer not to state",NA
+"667","lowestwage","What is the lowest weekly take-home pay you would consider accepting for a job?",NA,"£ []","Available in 2014"
+"668",NA,NA,NA,"Don't know",NA
+"669",NA,"ASK IF UNEMPLOYED AND SEEKING WORK",NA,"Prefer not to state",NA
+"670","unempminhours","About how many hours in a week would you expect to have to work to be paid [INSERT AMOUNT FROM 'lowestwage'?",NA,"Hours []","Available in 2014"
+"671",NA,NA,NA,"Don't know",NA
+"672",NA,"ASK UNLESS DON’T KNOW AT 'lowestwage'",NA,"Prefer not to state",NA
+"673","numproperties","How many properties (excluding your family home) do you own?",NA,"1","Available in 2014"
+"674",NA,"ASK IF OWN ANOTHER PROPERTY and property owned for BTL purposes",NA,"2",NA
+"675",NA,NA,NA,"3",NA
+"676",NA,NA,NA,"4",NA
+"677",NA,NA,NA,"5",NA
+"678",NA,NA,NA,"6",NA
+"679",NA,NA,NA,"More than 6",NA
+"680",NA,NA,NA,"Prefer not to state",NA
+"681","numproperties_cash","How many of your properties (excluding your family home) did you buy with cash rather than a mortgage?",NA,"0","Available in 2014"
+"682",NA,NA,NA,"1",NA
+"683",NA,"ASK IF OWN ANOTHER PROPERTY and property owned for BTL purposes",NA,"2",NA
+"684",NA,NA,NA,"3",NA
+"685",NA,NA,NA,"4",NA
+"686",NA,NA,NA,"5",NA
+"687",NA,NA,NA,"6",NA
+"688",NA,NA,NA,"More than 6",NA
+"689",NA,NA,NA,"Prefer not to state",NA
+"690","btl_inc1","How would you respond if the rental income on one of the properties you own other than your main family home was less than the cost of its mortgage?",NA,"Use my own income/savings to fund the mortgage","Available in 2014"
+"691","btl_inc2",NA,NA,"Use rental income from other properties I own to fund the mortgage",NA
+"692","btl_inc3",NA,NA,"Request a change in the terms of the mortgage",NA
+"693","btl_inc4","ASK IF OWN ANOTHER PROPERTY and property owned for BTL purposes",NA,"Sell the property",NA
+"694","btl_inc5","MAX 2 ANSWERS",NA,"Other",NA
+"695","btl_inc6","RANDOMISE ORDER OF 1 to 4",NA,"Don’t know",NA
+"696","btl_inc7",NA,NA,"Prefer not to state",NA
+"697","bought_year","When did you buy your current home?",NA,NA,"Available from 2014"
+"698",NA,"ASK IF MORTGAGOR AND RESPONSIBLE FOR FINANCIAL DECISION MAKING",NA,NA,NA
+"699","chmort_year","When did you last take out a mortgage or secured loan on your main home, or make a change to the amount borrowed on an existing mortgage or secured loan on this property?",NA,NA,"Available from 2014"
+"700",NA,"ASK IF MORTGAGOR AND RESPONSIBLE FOR FINANCIAL DECISION MAKING",NA,NA,NA
+"701","chininc","How does the current annual income of the whole of your household (before deductions) compare with what it was when you last took out a mortgage or secured loan on your main home, or made a change to the amount borrowed on an existing mortgage or secured loan on this property?",NA,"Increased a lot","Available in 2014"
+"702",NA,"ASK RESPONDENTS TO chmort_year",NA,"Increased  slightly",NA
+"703",NA,NA,NA,"Roughly unchanged",NA
+"704",NA,NA,NA,"Decreased  slightly",NA
+"705",NA,NA,NA,"Decreased a lot",NA
+"706",NA,NA,NA,"Don’t know",NA
+"707",NA,NA,NA,"Prefer not to state",NA
+"708",NA,NA,NA,NA,NA
+"709","ci_down_a","You indicated in your answer to the previous question that your  current annual household income (before deductions) has fallen from what it was  when you last made a change to your mortgage. What were the main reasons why your income fell?
+
+",NA,"Moved to a new job with lower  salary or bonus","Available in 2014"
+"710","ci_down_b","ASK IF HOUSEHOLD RESPONDED  ""DECREASED SLIGHTLY"" OR ""DECREASED A LOT"" IN chininc",NA,"Salary or bonus in existing job has reduced",NA
+"711","ci_down_c",NA,NA,"Now working fewer hours / part time",NA
+"712","ci_down_d",NA,NA,"Was made redundant / lost job",NA
+"713","ci_down_e",NA,NA,"Moved from working to studying",NA
+"714","ci_down_f",NA,NA,"Accident / long term sickness",NA
+"715","ci_down_g",NA,NA,"Retirement",NA
+"716","ci_down_h",NA,NA,"Household break-up",NA
+"717","ci_down_j",NA,NA,"Income earner passed away",NA
+"718","ci_down_l",NA,NA,"Other",NA
+"719","ci_up_a","Have any of the following changes occurred in your household since [INSERT ANSWER FROM chmort_year] when you last made a change to your mortgage?",NA,"One (or more) wage  earners has/have joined the household (e.g. new partner who goes out to work)","Available in 2014"
+"720","ci_up_b",NA,NA,"One (or more) wage  earners has/have left the household (e.g. have separated or got divorced)",NA
+"721","ci_up_c","ASK IF INCOME INCREASED OR UNCHANGED SINCE LAST MADE CHANGE TO MORTGAGE",NA,"One (or more) wage earners have stopped working or reduced their hours by 21 hours or more per week (e.g. have retired or given up work to look after the home)",NA
+"722","ci_up_d",NA,NA,"One (or more) main wage earners have started working or increased their hours by 21 hours or more per week (e.g. returned to work)",NA
+"723","ci_up_e",NA,NA,"None of the above",NA
+"724","hpexp1","How much would you expect house prices in your region to change over the next twelve months?",NA,"Decrease by more than 20%","Available from 2014"
+"725",NA,NA,NA,"Decrease by 10% - 20%",NA
+"726",NA,NA,NA,"Decrease by 5% - 9.9%",NA
+"727",NA,NA,NA,"Decrease by 1% - 4.9%",NA
+"728",NA,NA,NA,"No change",NA
+"729",NA,NA,NA,"Increase by 1% - 4.9%",NA
+"730",NA,NA,NA,"Increase by 5% - 9.9%",NA
+"731",NA,NA,NA,"Increase by 10% - 20%",NA
+"732",NA,NA,NA,"Increase by more than 20%",NA
+"733",NA,NA,NA,"Don’t know",NA
+"734","btl1","Do you currently own any property other than your main family home?",NA,"Yes","Available in 2014"
+"735",NA,NA,NA,"No",NA
+"736",NA,NA,NA,"Don’t know",NA
+"737",NA,NA,NA,"Prefer not to state",NA
+"738","btlr1","Selecting from the below, what are the main reasons you currently own property other than your main family home?",NA,"To get income from rent","Available in 2014"
+"739","btlr2","ASK IF HOUSEHOLD RESPONDED THAT THEY OWN PROPERTY IN btl1",NA,"For investment purposes as I expect its value to increase",NA
+"740","btlr3",NA,NA,"To keep the property to potentially live there in the future",NA
+"741","btlr4",NA,NA,"As a result of family circumstances (for example, moving in with a partner, inheritance)",NA
+"742","btlr5",NA,NA,"As a second/holiday home for part of the year",NA
+"743","btlr6",NA,NA,"For family members to live in",NA
+"744","btlr7",NA,NA,"To fund my retirement",NA
+"745","btlr8",NA,NA,"Other",NA
+"746","btl2","Other than your main home, do you expect to buy an(other) additional property (e.g. holiday home, buy-to-let property) in the next twelve months?",NA,"Yes","Available in 2014"
+"747",NA,NA,NA,"No",NA
+"748",NA,NA,NA,"Don’t know",NA
+"749",NA,NA,NA,"Prefer not to state",NA
+"750","yexp_d","Over the next twelve months, how do you expect your household income (before anything is deducted for tax, National Insurance, pension schemes etc.) to change?",NA,"Increase","Available from 2014"
+"751",NA,NA,NA,"Stay the same",NA
+"752",NA,NA,NA,"Decrease",NA
+"753",NA,NA,NA,"Don’t know",NA
+"754",NA,NA,NA,"Prefer not to state",NA
+"755","yexp","By how much do you expect your household income (before anything is deducted for tax, National Insurance, pension schemes etc.) to increase/decrease over the next twelve months? Please enter a percentage change.
+",NA,NA,"Available from 2014"
+"756","changehhinc","Has your household received more or less money, from both work and non-work sources, over the last 12 months than you would have expected this time last year?",NA,"More","Available in 2014"
+"757",NA,NA,NA,"About the same",NA
+"758",NA,NA,NA,"Less",NA
+"759","morehhinc","Compared to what you expected this time last year, how much more money did your household receive over the last 12 months? Please specify an approximate annual amount in pounds.",NA,NA,"Available in 2014"
+"760",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY RECEIVED ""MORE"" IN morehhinc",NA,NA,NA
+"761","temporperminc","Are you treating this unexpected increase in money received by your household as:",NA,"A temporary increase","Available in 2014"
+"762",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY RECEIVED ""MORE"" IN morehhinc",NA,"An increase that is likely to persist",NA
+"763",NA,NA,NA,"Don’t know",NA
+"764",NA,NA,NA,"Prefer not to state",NA
+"765","lesshhinc","Compared to what you expected this time last year, how much less money did your household receive over the last 12 months? Please specify an approximate annual amount in pounds.",NA,NA,"Available in 2014"
+"766",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY RECEIVED ""LESS"" IN morehhinc",NA,NA,NA
+"767","temporpermdec","Are you treating this unexpected decrease in money received by your household as:",NA,"A temporary decrease","Available in 2014"
+"768",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY RECEIVED ""LESS"" IN morehhinc",NA,"A decrease that is likely to persist",NA
+"769",NA,NA,NA,"Don’t know",NA
+"770",NA,NA,NA,"Prefer not to state",NA
+"771","changespend","How did you change your annual spending in response to this unexpected change in money received by your household?",NA,"Spent more","Available in 2014"
+"772",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY RECEIVED ""MORE"" OR ""LESS"" IN morehhinc",NA,"Spent the same",NA
+"773",NA,NA,NA,"Spent less",NA
+"774","morespend","You indicated earlier in the survey that your household received more over the last 12 months than you had expected a year ago. By how much did you increase your annual spending in response to this?",NA,NA,"Available in 2014"
+"775",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY ""SPENT MORE"" IN changespend",NA,NA,NA
+"776","lessspend","You indicated earlier in the survey that your household received  more/less over the last 12 months than you had expected a year ago. By how much did you decrease your annual spending in response to this?",NA,NA,"Available in 2014"
+"777",NA,"ASK IF HOUSEHOLD RESPONDED THAT THEY ""SPENT LESS"" IN changespend",NA,NA,NA
+"778","workingstatus","Which one of these applies to you?",NA,"Have paid job - full time (30+ hours per week)","Available from 2014"
+"779",NA,NA,NA,"Have paid job - part time (up to 29 hours per week)",NA
+"780",NA,NA,NA,"Self-employed",NA
+"781",NA,NA,NA,"Full time student/still at school",NA
+"782",NA,NA,NA,"Unemployed and seeking work",NA
+"783",NA,NA,NA,"Retired",NA
+"784",NA,NA,NA,"Not in paid work because of long term illness or disability",NA
+"785",NA,NA,NA,"Not in paid work for other reason",NA
+"786",NA,NA,NA,"Prefer not to state",NA
+"787","numberchildren","How many children live in your household (those aged under 16)?",NA,NA,"Available from 2014"
+"788","nadult","Number of adults in household",NA,NA,"Available from 2016"
+"789","otheradults","Excluding yourself, how many other adults live in your household (those aged 16 or over)?",NA,NA,"Available from 2014-2015 and in 2017"
+"790","expire_year2","When does your fixed interest rate deal expire?",NA,"2016","Available from 2014"
+"791",NA,"ASK IF HOUSEHOLD RESPONDED ""FIXED"" IN intmg",NA,"2017",NA
+"792",NA,NA,NA,"2018",NA
+"793",NA,NA,NA,"2019 or later",NA
+"794",NA,NA,NA,"Don’t know",NA
+"795",NA,NA,NA,"Prefer not to state",NA
+"796","statusadults1","Please enter the number of other adults in your household (excluding yourself) who fall into each of the below categories.",NA,"Self-employed","Available from 2014"
+"797","statusadults2","ASK IF otheradults >0",NA,"Have paid job (full time and part time)",NA
+"798","statusadults3",NA,NA,"Unemployed and seeking work",NA
+"799","statusadults4",NA,NA,"Retired",NA
+"800","statusadults6",NA,NA,"Full time student/still at school",NA
+"801","statusadults7",NA,NA,"Not in paid work because of long term illness or disability",NA
+"802","statusadults10",NA,NA,"Not in paid work for other reason",NA
+"803","statusadultsref",NA,NA,"Prefer not to state",NA
+"804","billamount_m","When reporting your monthly income after paying tax, National Insurance, housing costs (e.g. rent and mortgage repayments), loan repayments (e.g. personal loans, credit cards) and bills (e.g. electricity and council tax) how much did you allow for bills?",NA,NA,"Available in 2014"
+"805",NA,"ASK RESPONDENTS TO dfihhyr",NA,NA,NA
+"806","intval_m","Could you state the approximate interest rate you are currently paying on your mortgage(s) or loan(s) related to your main home? If you have more than one mortgage or loan, please state the interest rate on the largest loan.",NA,NA,"Available from 2014"
+"807","be10b_m","About how much do you think your monthly mortgage payments could increase by for a sustained period without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or request a change to your mortgage?",NA,NA,"Available from 2014"
+"808",NA,"ASK IF HOUSEHOLD RESPONDED  ""DISCOUNTED"", ""BASE RATE TRACKER"" OR ""STANDARD VARIABLE RATE"" IN intmg",NA,NA,NA
+"809","be10c_m","About how much do you think your monthly mortgage payments could increase by for a sustained period without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or request a change to your mortgage?",NA,NA,"Available from 2014"
+"810",NA,"ASK IF HOUSEHOLD RESPONDED  ""FIXED"" OR ""CAPPED"" IN intmg",NA,NA,NA
+"811","intexp1","The level of interest rates set by the Bank of England (Bank Rate) is currently 0.25%. At what level do you expect that interest rate to be in one year from now?",NA,"0 - 0.24%","Available from 2014"
+"812",NA,NA,NA,"2.5000000000000001E-3","Before 2015 options between 0 and 0.9% were grouped into one option"
+"813",NA,NA,NA,"0.26 - 0.49%","Changed to 'currently 0.25%' in 2016"
+"814",NA,NA,NA,"5.0000000000000001E-3","Added to options in 2016:"
+"815",NA,NA,NA,"0.51-0.9%","0 - 0.24%"
+"816",NA,NA,NA,"1 - 1.9%","2.5000000000000001E-3"
+"817",NA,NA,NA,"2 - 2.9%","0.26 - 0.49%"
+"818",NA,NA,NA,"3 - 3.9%",NA
+"819",NA,NA,NA,"4 - 4.9%",NA
+"820",NA,NA,NA,"5% or more",NA
+"821",NA,NA,NA,"Don’t know",NA
+"822","intexp2","The level of interest rates set by the Bank of England (Bank Rate) is currently 0.25%. At what level do you expect that interest rate to be in two year from now?",NA,"0 - 0.24%","Available from 2014"
+"823",NA,NA,NA,"2.5000000000000001E-3","Before 2015 options between 0 and 0.9% were grouped into one option"
+"824",NA,NA,NA,"0.26 - 0.49%","Changed to 'currently 0.25%' in 2016"
+"825",NA,NA,NA,"5.0000000000000001E-3","Added to options in 2016:"
+"826",NA,NA,NA,"0.51-0.9%","0 - 0.24%"
+"827",NA,NA,NA,"1 - 1.9%","2.5000000000000001E-3"
+"828",NA,NA,NA,"2 - 2.9%","0.26 - 0.49%"
+"829",NA,NA,NA,"3 - 3.9%",NA
+"830",NA,NA,NA,"4 - 4.9%",NA
+"831",NA,NA,NA,"5% or more",NA
+"832",NA,NA,NA,"Don’t know",NA
+"833","intexp5","The level of interest rates set by the Bank of England (Bank Rate) is currently 0.25%. At what level do you expect that interest rate to be in five year from now?",NA,"0 - 0.24%","Available from 2014"
+"834",NA,NA,NA,"2.5000000000000001E-3","Before 2015 options between 0 and 0.9% were grouped into one option"
+"835",NA,NA,NA,"0.26 - 0.49%","Changed to 'currently 0.25%' in 2016"
+"836",NA,NA,NA,"5.0000000000000001E-3","Added to options in 2016:"
+"837",NA,NA,NA,"0.51-0.9%","0 - 0.24%"
+"838",NA,NA,NA,"1 - 1.9%","2.5000000000000001E-3"
+"839",NA,NA,NA,"2 - 2.9%","0.26 - 0.49%"
+"840",NA,NA,NA,"3 - 3.9%",NA
+"841",NA,NA,NA,"4 - 4.9%",NA
+"842",NA,NA,NA,"5% or more",NA
+"843",NA,NA,NA,"Don’t know",NA
+"844","hr_m_sp","How much would you reduce your monthly spending by in this situation? ",NA,NA,"Available from 2014 to 2015"
+"845",NA,"ASK RESPONDENTS TO hr_m_a (who would change spending  in response to 2 pp interest rate rise)",NA,NA,NA
+"846","hr_us_sp","How much would you reduce your monthly spending by in this situation? ",NA,NA,"Available from 2014 to 2015, and in 2017"
+"847",NA,"ASK RESPONDENTS TO hr_us_a  (who would change spending  in response to 2 pp interest rate rise)",NA,NA,NA
+"848","hr_sav_sp","How much would you increase your monthly spending by in this situation? ",NA,NA,"Available from 2014 to 2015"
+"849",NA,"ASK RESPONDENTS TO hr_sav_a  (who would change spending  in response to 2 pp interest rate rise)",NA,NA,NA
+"850","incomequestion","Please state the total annual income of the whole of your household, before anything is deducted for tax, National Insurance, pension schemes etc.",4820,"total hh income only","Available from 2015"
+"851",NA,"Please state the total annual income of each adult in your household, before anything is deducted for tax, National Insurance, pension schemes etc.  For items of joint income, allocate it to whichever member of the household would pay tax on that income.",4420,"total hh income for each person","Before 2015 all households were asked for their total hh income only"
+"852",NA,"Please state the annual income of the whole of your household (before anything is deducted for tax, National Insurance, pension schemes etc.) which comes from each of the following categories.",1409,"total hh income by component",NA
+"853",NA,"For each member of your household please state the annual income (before anything is deducted for tax, National Insurance, pension schemes etc.) which comes from each of the following categories. For items of joint income, allocate it to whichever member of the household would pay tax on that income.",1362,"income components for each hh member",NA
+"854","mgtype","What type of mortgage do you currently have on your main home?",NA,"missing","Available from 2015"
+"855",NA,NA,NA,"not applicable",NA
+"856",NA,NA,NA,"don't know",NA
+"857",NA,NA,NA,"other",NA
+"858",NA,NA,NA,"repayment mortgage",NA
+"859",NA,NA,NA,"interest only with linked investment",NA
+"860",NA,NA,NA,"interest only without linked investment",NA
+"861","unsec_arrears","In the past 12 months have you ever found yourself more than two months behind with payments of these [unsecured] loans (known as being ‘in arrears’)? Please exclude any pre-arranged payment holidays.",NA,"Yes","Available from 2015"
+"862",NA,NA,NA,"No",NA
+"863",NA,NA,NA,"Don't know",NA
+"864",NA,NA,NA,"Prefer not to state",NA
+"865",NA,NA,NA,NA,NA
+"866",NA,NA,NA,NA,NA
+"867",NA,NA,NA,NA,NA
+"868","btl_n","Do you currently own any buy-to-let properties?",NA,"refused","Available from 2015 to 2016"
+"869",NA,NA,NA,"don't know",NA
+"870",NA,NA,NA,"none",NA
+"871",NA,NA,NA,"1",NA
+"872",NA,NA,NA,"2",NA
+"873",NA,NA,NA,"3",NA
+"874",NA,NA,NA,"4",NA
+"875",NA,NA,NA,"5",NA
+"876",NA,NA,NA,"6 or more",NA
+"877",NA,"Please indicate the extent to which you agree/disagree with the following statements regarding why you own buy-to-let properties.",NA,"Strongly agree","Available in 2015"
+"878","btl_ro_a","generate regular rental income",NA,"Agree",NA
+"879","btl_ro_b","expect property values to increase",NA,"Neither agree nor disagree",NA
+"880","btl_ro_c","fund my retirement",NA,"Disagree",NA
+"881","btl_ro_d","family circumstances",NA,"Strongly disagree",NA
+"882","btl_ro_e","family members may move",NA,"Prefer not to state",NA
+"883","btl_ro_f","low returns on other types of investment",NA,NA,NA
+"884","btl_ro_g","other",NA,NA,NA
+"885","btl_mt","Do you have an interest only mortgage on any of your buy-to-let properties?",NA,"Refused","Available in 2015"
+"886",NA,NA,NA,"don't know",NA
+"887",NA,NA,NA,"no mortgage",NA
+"888",NA,NA,NA,"capital repayment",NA
+"889",NA,NA,NA,"interest only",NA
+"890",NA,NA,NA,NA,NA
+"891",NA,"How do you intend to repay the outstanding balance on your interest-only mortgages(s) [on your buy-to-let properties] at completion?  Please select all that apply",NA,"Refused","Available in 2015"
+"892","btl_rp_a","have sufficient assets",NA,"don't know",NA
+"893","btl_rp_b","have a savings/investment strategy",NA,"no",NA
+"894","btl_rp_c","expect to be able to refinance",NA,"yes",NA
+"895","btl_rp_d","intend to sell the property",NA,NA,NA
+"896","btl_rp_e","other",NA,NA,NA
+"897","btl_kl","How long do you intend to keep your buy-to-let property for? (asked to respondents with only one buy-to-let property)",NA,"refused","Available in 2015"
+"898",NA,NA,NA,"don't know",NA
+"899",NA,NA,NA,"Less than 5 years",NA
+"900",NA,NA,NA,"5 to 9 years",NA
+"901",NA,NA,NA,"10 to 19 years",NA
+"902",NA,NA,NA,"20 years or longer",NA
+"903",NA,NA,NA,"no intention to sell",NA
+"904","btl_sl","How long before you expect to sell one of your buy-to-let properties?  (asked to respondents with more than one buy-to-let property)",NA,"refused","Available in 2015"
+"905",NA,NA,NA,"don't know",NA
+"906",NA,NA,NA,"Less than 5 years",NA
+"907",NA,NA,NA,"5 to 9 years",NA
+"908",NA,NA,NA,"10 to 19 years",NA
+"909",NA,NA,NA,"20 years or longer",NA
+"910",NA,NA,NA,"no intention to sell",NA
+"911","btl_int","Would you sell one (or more) of your buy-to-let properties if interest rates were to rise such that rental income were not enough to cover mortgage repayments and expenses?",NA,"refused","Available in 2015"
+"912",NA,NA,NA,"don't know",NA
+"913",NA,NA,NA,"Definitely",NA
+"914",NA,NA,NA,"Probably",NA
+"915",NA,NA,NA,"Maybe",NA
+"916",NA,NA,NA,"Probably not",NA
+"917",NA,NA,NA,"Definitely not",NA
+"918","btl_hp","Would you sell your buy-to-let property if rental income didn’t cover costs AND property prices were also expected to fall?  (asked to those who did not indicate they would definitely sell in btl_int)",NA,"Yes – definitely, even if property prices were expected to fall by less than 10%","Available in 2015"
+"919",NA,NA,NA,"Probably, but only if prices were expected to fall by 11% or more",NA
+"920",NA,NA,NA,"Probably not",NA
+"921",NA,NA,NA,"Definitely not",NA
+"922",NA,NA,NA,"Other (please specify)",NA
+"923",NA,NA,NA,"Don’t know",NA
+"924",NA,NA,NA,"Prefer not to say",NA
+"925","btl_price","How much would you expect to receive for all your buy-to-let properties if you were to sell them today?",NA,"£ []","Available in 2015"
+"926",NA,NA,NA,"don't know",NA
+"927",NA,NA,NA,"refused",NA
+"928","btl_debt","Roughly how much is left to pay in total on mortgages and other loans secured against all the buy-to-let properties you own?",NA,"£ []","Available in 2015"
+"929",NA,NA,NA,"don't know",NA
+"930",NA,NA,NA,"refused",NA
+"931","btl_rent","Roughly how much rent do you charge per month in total across all your buy-to-let properties?",NA,"£ []","Available in 2015"
+"932",NA,NA,NA,"don't know",NA
+"933",NA,NA,NA,"refused",NA
+"934","btl_ip","How likely is it that you will purchase a buy-to-let property at one point in the future?",NA,"refused","Available in 2015"
+"935",NA,"Asked if don't currently own any buy-to-let properties (btl_n=none)",NA,"don't know",NA
+"936",NA,NA,NA,"Very likely",NA
+"937",NA,NA,NA,"Somewhat likely",NA
+"938",NA,NA,NA,"Neither likely nor unlikely",NA
+"939",NA,NA,NA,"Somewhat unlikely",NA
+"940",NA,NA,NA,"Very unlikely",NA
+"941",NA,NA,NA,"Virtually impossible",NA
+"942","btl_tr","Are you aware of the proposed reduction in mortgage finance tax relief for buy-to-let investors paying higher rate income tax announced in the Summer Budget 2015?",NA,"refused","Available in 2015"
+"943",NA,"Asked if currently own any buy-to-let properties (btl_n>=1) or more likely than virtually impossible that they will purchase a buy-to-let property in the future (btl_ip>=very unlikely)",NA,"don't know",NA
+"944",NA,NA,NA,"Yes",NA
+"945",NA,NA,NA,"No",NA
+"946","btl_itmd","Which of the following best describes the effect the reduction in mortgage finance tax relief will have on your buy-to-let investments?",NA,"refused","Available in 2015"
+"947",NA,"Asked if currently own any buy-to-let properties (btl_n>=1) and aware of budget measure on tax relief (btl_tr=yes)",NA,"don't know",NA
+"948",NA,NA,NA,"No effect",NA
+"949",NA,NA,NA,"reduce my post-tax profit a little",NA
+"950",NA,NA,NA,"reduce my post-tax profit significantly",NA
+"951",NA,"Which of the following best describe how you will respond to the reduction in mortgage finance tax relief? Please select all that apply",NA,"yes","Available in 2015"
+"952",NA,"Asked if expect budget tax relief measures to have a little or a significant impact on their post-tax profit (btl_itmd=reduce my post-tax profit a little or significantly)",NA,"no",NA
+"953","btl_itmm_a","intend to increase rents",NA,NA,NA
+"954","btl_itmm_b","more likely to sell",NA,NA,NA
+"955","btl_itmm_c","less likely to invest in additional BTLs",NA,NA,NA
+"956","btl_itmm_d","other",NA,NA,NA
+"957","btl_itmm_e","not planning to take any action",NA,NA,NA
+"958","btl_itmm_f","don't know",NA,NA,NA
+"959","btl_itmm_g","prefer not to state",NA,NA,NA
+"960","btl_itmf","What impact has the announcement of the reduction in mortgage finance tax relief had on your likelihood of investing in a buy-to-let property in the future?",NA,"refused","Available in 2015"
+"961",NA,"Asked if more likely than virtually impossible that they will purchase a buy-to-let property in the future (btl_ip>=very unlikely) and aware of budget measure on tax relief (btl_tr=yes)",NA,"don't know",NA
+"962",NA,NA,NA,"No effect",NA
+"963",NA,NA,NA,"a little less likely to invest",NA
+"964",NA,NA,NA,"much less likely to invest",NA
+"965","hhfinpas1","How has the financial situation of your household changed over the last 12 months? It has…",NA,"Got a lot better","Avaliable from 2015"
+"966",NA,NA,NA,"Got a little better",NA
+"967",NA,NA,NA,"Stayed the same",NA
+"968",NA,NA,NA,"Got a little worse",NA
+"969",NA,NA,NA,"Got a lot worse",NA
+"970",NA,NA,NA,"Don't know",NA
+"971",NA,NA,NA,"Prefer not to state",NA
+"972","hhfinexp1","How do you expect the financial position of your household to change over the next 12 months? It will…",NA,"Get a lot better","Avaliable from 2015"
+"973",NA,NA,NA,"Get a little better",NA
+"974",NA,NA,NA,"Stayed the same",NA
+"975",NA,NA,NA,"Get a little worse",NA
+"976",NA,NA,NA,"Get a lot worse",NA
+"977",NA,NA,NA,"Don't know",NA
+"978",NA,NA,NA,"Prefer not to state",NA
+"979","hhspepas1","How has your household changed its spending compared with a year ago?  Please include all your spending on goods and services, but exclude money put into savings or used to repay mortgages, overdrafts, credit cards and other loans.",NA,"Increased a lot","Avaliable from 2015"
+"980",NA,NA,NA,"Increased a little",NA
+"981",NA,NA,NA,"About the same",NA
+"982",NA,NA,NA,"Decreased a little",NA
+"983",NA,NA,NA,"Decreased a lot",NA
+"984",NA,NA,NA,"Don't know",NA
+"985",NA,NA,NA,"Prefer not to state",NA
+"986","hhspeexp1","How do you expect your household to change its spending over the next 12 months?  Please exclude money put into savings and repayment of bank loans.",NA,"Increase a lot","Avaliable from 2015"
+"987",NA,NA,NA,"Increase a little",NA
+"988",NA,NA,NA,"About the same",NA
+"989",NA,NA,NA,"Decrease a little",NA
+"990",NA,NA,NA,"Decrease a lot",NA
+"991",NA,NA,NA,"Don't know",NA
+"992",NA,NA,NA,"Prefer not to state",NA
+"993","mjpurexp1","Compared to the last 12 months, do you expect to spend more or less money on major purchases (such as car, furniture and electrical goods) over the next year?  I will spend…",NA,"Much more","Avaliable from 2015"
+"994",NA,NA,NA,"A little more",NA
+"995",NA,NA,NA,"About the same",NA
+"996",NA,NA,NA,"A little less",NA
+"997",NA,NA,NA,"Much less",NA
+"998",NA,NA,NA,"Don't know",NA
+"999","pripas1","Which of these options best describes how prices have changed over the past 12 months?",NA,"Gone down","Avaliable from 2015"
+"1000",NA,NA,NA,"Not changed",NA
+"1001",NA,NA,NA,"Up by 1% or less",NA
+"1002",NA,NA,NA,"Gone up by 1% but less than 2%",NA
+"1003",NA,NA,NA,"Gone up by 2% but less than 3%",NA
+"1004",NA,NA,NA,"Gone up by 3% but less than 4%",NA
+"1005",NA,NA,NA,"Gone up by 4% but less than 5%",NA
+"1006",NA,NA,NA,"Gone up by 5% or more",NA
+"1007",NA,NA,NA,"Don't know",NA
+"1008","priexp1","And how much would you expect prices in the shops generally to change over the next twelve months?",NA,"Go down","Avaliable from 2015"
+"1009",NA,NA,NA,"Not changed",NA
+"1010",NA,NA,NA,"Go up by 1% or less",NA
+"1011",NA,NA,NA,"Go up by 1% but less than 2%",NA
+"1012",NA,NA,NA,"Go up by 2% but less than 3%",NA
+"1013",NA,NA,NA,"Go up by 3% but less than 4%",NA
+"1014",NA,NA,NA,"Go up by 4% but less than 5%",NA
+"1015",NA,NA,NA,"Go up by 5% or more",NA
+"1016",NA,NA,NA,"Don't know",NA
+"1017","priexp2","And the 12 months after that? (follows on from priexp1 question)",NA,"Go down","Avaliable from 2015"
+"1018",NA,NA,NA,"Not changed",NA
+"1019",NA,NA,NA,"Go up by 1% or less",NA
+"1020",NA,NA,NA,"Go up by 1% but less than 2%",NA
+"1021",NA,NA,NA,"Go up by 2% but less than 3%",NA
+"1022",NA,NA,NA,"Go up by 3% but less than 4%",NA
+"1023",NA,NA,NA,"Go up by 4% but less than 5%",NA
+"1024",NA,NA,NA,"Go up by 5% or more",NA
+"1025",NA,NA,NA,"Don't know",NA
+"1026","priexp5","And how about the longer term, say in five years time?  How much would you expect prices in the shops generally to change over a year then? (follows on from priexp1 & priexp2 questions)",NA,"Go down","Avaliable from 2015"
+"1027",NA,NA,NA,"Not changed",NA
+"1028",NA,NA,NA,"Go up by 1% or less",NA
+"1029",NA,NA,NA,"Go up by 1% but less than 2%",NA
+"1030",NA,NA,NA,"Go up by 2% but less than 3%",NA
+"1031",NA,NA,NA,"Go up by 3% but less than 4%",NA
+"1032",NA,NA,NA,"Go up by 4% but less than 5%",NA
+"1033",NA,NA,NA,"Go up by 5% or more",NA
+"1034",NA,NA,NA,"Don't know",NA
+"1035","unempeconexp1","How do you expect the number of unemployed people in this country will change over the next 12 months?",NA,"Increase sharply","Avaliable from 2015"
+"1036",NA,NA,NA,"Increase slightly",NA
+"1037",NA,NA,NA,"Remain the same",NA
+"1038",NA,NA,NA,"Fall slightly",NA
+"1039",NA,NA,NA,"Fall sharply",NA
+"1040",NA,NA,NA,"Don't know",NA
+"1041","geneconpas1","How do you think the general economic situation in this country has changed over the past 12 months?",NA,"Got a lot better","Avaliable from 2015"
+"1042",NA,NA,NA,"Got a little better",NA
+"1043",NA,NA,NA,"Stayed the same",NA
+"1044",NA,NA,NA,"Got a little worse",NA
+"1045",NA,NA,NA,"Got a lot worse",NA
+"1046",NA,NA,NA,"Don't know",NA
+"1047","geneconexp1","How do you expect the general economic situation in this country to develop over the next 12 months?",NA,"Get a lot better","Avaliable from 2015"
+"1048",NA,NA,NA,"Get a little better",NA
+"1049",NA,NA,NA,"Stayed the same",NA
+"1050",NA,NA,NA,"Get a little worse",NA
+"1051",NA,NA,NA,"Get a lot worse",NA
+"1052",NA,NA,NA,"Don't know",NA
+"1053","earnexp_d","Suppose that you continue working in the exact same job at the same place you currently work, and working the exact same number of hours as you do now.  Over the next 12 months, how would you expect your earnings on this job, before taxes and deductions to change?",NA,"Increase","Available from 2015"
+"1054",NA,"Asked if in paid employment (question: jbstat)",NA,"Stay the same",NA
+"1055",NA,NA,NA,"Decrease",NA
+"1056",NA,NA,NA,"Don’t know",NA
+"1057",NA,NA,NA,"Prefer not to state",NA
+"1058","earnexp","Suppose that you continue working in the exact same job at the same place you currently work, and working the exact same number of hours as you do now.  By how much do you expect your earnings on this job, before taxes and deductions to change over the next twelve months? Please enter a percentage change.
+",NA,"[]%","Available from 2015 to 2016"
+"1059",NA,"Asked if in paid employment (question: jbstat)",NA,NA,NA
+"1060","discspend_1","Do you regularly spend money on any of the following items?  Please select all that apply",NA,"TV or film subcriptions","Available in 2015"
+"1061","discspend_2",NA,NA,"Mobile phone contract",NA
+"1062","discspend_3",NA,NA,"Gym membership",NA
+"1063","discspend_4",NA,NA,"Holidays abroad",NA
+"1064","discspend_5",NA,NA,"Eating out",NA
+"1065","discspend_6",NA,NA,"Designer clothing",NA
+"1066","discspend_7",NA,NA,"None of these",NA
+"1067","discspend_8",NA,NA,"Prefer not to state",NA
+"1068","considmov_1","Have you considered moving to another property since the beginning of 2015? Please select all answers that apply.",NA,"No – I'm happy where I am","Available in 2015"
+"1069","considmov_2",NA,NA,"Yes – I'm in the process of moving",NA
+"1070","considmov_3","ASK ALL RESPONDENTS WHO ANSWER 1  OR 2 TO TENURE QUESTION AND BE03=YES",NA,"Yes – but the costs of moving (stamp duty, estate agent and solicitor fees) are too high",NA
+"1071","considmov_4",NA,NA,"Yes – but my current mortgage deal is too good to change",NA
+"1072","considmov_5",NA,NA,"Yes – but I would not be able to increase my mortgage sufficiently to make it worthwhile to move",NA
+"1073","considmov_6",NA,NA,"Yes – but I haven't been able to find a suitable property",NA
+"1074","considmov_7",NA,NA,"Yes – but my house is worth less than when I bought it",NA
+"1075","considmov_8",NA,NA,"Yes – but I can't find anyone to buy my house",NA
+"1076","considmov_9",NA,NA,"Other (please specify)",NA
+"1077","considmov_10",NA,NA,"Don't know",NA
+"1078","considmov_11",NA,NA,"Prefer not to state",NA
+"1079","expectmove","When do you next expect to move house?",NA,"Within the next 12 months","Available from 2015"
+"1080",NA,"IF ANSWERED 1  OR 2 TO TENURE QUESTION AND BE03=YES",NA,"1-2 years from now",NA
+"1081",NA,NA,NA,"3-4 years from now",NA
+"1082",NA,NA,NA,"In 5 years or more",NA
+"1083",NA,NA,NA,"Not expecting to move house again",NA
+"1084",NA,NA,NA,"Don't know",NA
+"1085",NA,NA,NA,"Prefer not to state",NA
+"1086","ihtmove","The government recently announced changes to the Inheritance Tax regime. Has this changed the likelihood of you moving house?",NA,"Yes - I'm now more likely to move","Available in 2015"
+"1087",NA,"IF ANSWERED 1  OR 2 TO TENURE QUESTION AND BE03=YES",NA,"Yes - I'm now less likely to move",NA
+"1088",NA,NA,NA,"No - this hasn't affected me",NA
+"1089",NA,NA,NA,"Don't know",NA
+"1090",NA,NA,NA,"Prefer not to state",NA
+"1091","buyfuture","Do you think you will eventually buy a property to live in, in the UK?",NA,"Yes","Available from 2015"
+"1092",NA,"ASK IF DON'T OWN PROPERTY (Code 3-7 in housing tenure question)",NA,"No",NA
+"1093",NA,NA,NA,"Don't know",NA
+"1094",NA,NA,NA,"Prefer not to state",NA
+"1095","expectbuy","When do you expect to buy a property to live in?",NA,"Within the next 12 months","Available from 2015"
+"1096",NA,"ASK IF ANSWER YES TO buyfuture",NA,"1-2 years from now",NA
+"1097",NA,NA,NA,"3-4 years from now",NA
+"1098",NA,NA,NA,"In 5 years or more",NA
+"1099",NA,NA,NA,"Don't know",NA
+"1100",NA,NA,NA,"Prefer not to state",NA
+"1101","notbuyreas_1","What are the main reasons why you don't think you will eventually buy your own home? You may select up to three responses",NA,"It is unlikely I will ever be able to afford the purchase costs (e.g. deposit, stamp duty, estate agent fees etc.)","Available from 2015"
+"1102","notbuyreas_2",NA,NA,"It is unlikely I will ever be able to afford the monthly mortgage repayments",NA
+"1103","notbuyreas_3","ASK IF ANSWER NO TO buyfuture",NA,"It is unlikely I would be able to get a mortgage (e.g. because of my credit record or because of my employment status)",NA
+"1104","notbuyreas_4",NA,NA,"I do not have a secure enough job",NA
+"1105","notbuyreas_5",NA,NA,"I would not want to be in debt",NA
+"1106","notbuyreas_6",NA,NA,"Repairs and maintenance would be too costly",NA
+"1107","notbuyreas_7",NA,NA,"I wouldn't want that sort of commitment",NA
+"1108","notbuyreas_8",NA,NA,"I prefer the flexibility of renting",NA
+"1109","notbuyreas_9",NA,NA,"I like it where I am",NA
+"1110","notbuyreas_10",NA,NA,"Other (please specify)",NA
+"1111","notbuyreas_11",NA,NA,"Don't know",NA
+"1112","notbuyreas_12",NA,NA,"Prefer not to state",NA
+"1113","fisc_effect","Since 2010, the government has announced a succession of measure in order to cut the country's budget deficit. How have these measures affected your household over the past 6 years?",NA,"Positively","Available in 2015"
+"1114",NA,NA,NA,"Negatively",NA
+"1115",NA,NA,NA,"No impact",NA
+"1116",NA,NA,NA,"Don't know",NA
+"1117",NA,NA,NA,"Prefer not to state",NA
+"1118","mort_term_m","When you last took out a mortgage or secured loan on your main home, or made a change to the amount borrowed on an existing mortgage or secured loan on this property how long was the mortgage or secured loan for? (This is the number of years over which you will repay the mortgage - also known as the term).",NA,NA,"Available from 2016"
+"1119",NA,NA,NA,NA,NA
+"1120",NA,"Even if you are making overpayments to reduce the term of your mortgage, please state the original term you signed up for.",NA,NA,NA
+"1121",NA,"Mortgage rates on new loans have fallen recently.  If your monthly mortgage payments were to fall by £y [which is calculated automatically from software as the payment under a 1pp lower rate] for a sustained period from tomorrow, how do you think you would respond?",NA,NA,"Available in 2016"
+"1122","lr_m_a",NA,NA,"a)      Increase spending",NA
+"1123","lr_m_b",NA,NA,"b)      Increase the amount put aside as saving each month",NA
+"1124","lr_m_c",NA,NA,"c)      Leave paid employment myself",NA
+"1125","lr_m_d",NA,NA,"d)      Someone else in my household would leave paid employment",NA
+"1126","lr_m_e",NA,NA,"e)      Work shorter hours / leave a second job",NA
+"1127","lr_m_f",NA,NA,"f)       Give financial help to family / relatives",NA
+"1128","lr_m_g",NA,NA,"g)      Move to a more expensive property",NA
+"1129","lr_m_h",NA,NA,"h)      Pay off debt (including overpaying on your mortgage by continuing to pay the same amount as you pay now)",NA
+"1130","lr_m_i",NA,NA,"i)       Other (please specify)",NA
+"1131","lr_m_j",NA,NA,"j)       Don’t know",NA
+"1132","lr_m_k",NA,NA,"k)      Prefer not to state",NA
+"1133","lr_m_sp","How much would you increase your monthly spending by if your monthly mortgage payments were to fall for a sustained period by £y [which is calculated automatically from software as the payment under 1pp lower rate]?",NA,NA,"Available in 2016"
+"1134",NA,"Which of the following reasons help explain why your household has fallen behind in the mortgage payments? You can give as many reasons as you like.",NA,NA,"Available from 2016"
+"1135","mgarr_why_a",NA,NA,"a)      A spouse or partner left home",NA
+"1136","mgarr_why_b",NA,NA,"b)      A spouse or partner died",NA
+"1137","mgarr_why_c",NA,NA,"c)      Someone else who had been contributing left home",NA
+"1138","mgarr_why_d",NA,NA,"d)      Someone who had been contributing became pregnant/new born baby",NA
+"1139","mgarr_why_e",NA,NA,"e)      Someone who had been earning, lost pay because they were sick or injured",NA
+"1140","mgarr_why_f",NA,NA,"f)       Self-employed and income has gone down",NA
+"1141","mgarr_why_g",NA,NA,"g)      Someone was made redundant/is unemployed",NA
+"1142","mgarr_why_h",NA,NA,"h)      Someone lost overtime or worked reduced hours",NA
+"1143","mgarr_why_i",NA,NA,"i)       Someone worked same hours but for less pay",NA
+"1144","mgarr_why_j",NA,NA,"j)       There was an increase in the mortgage payments",NA
+"1145","mgarr_why_k",NA,NA,"k)      There was an increase in other bills or unexpected expenses/costs",NA
+"1146","mgarr_why_l",NA,NA,"l)       Other  (please specify)",NA
+"1147",NA,"Which of the following reasons help explain why your household has fallen behind in the loan payments? You can give as many reasons as you like.",NA,NA,"Available from 2016"
+"1148","us_arr_why_a",NA,NA,"a)      A spouse or partner left home",NA
+"1149","us_arr_why_b",NA,NA,"b)      A spouse or partner died",NA
+"1150","us_arr_why_c",NA,NA,"c)      Someone else who had been contributing left home",NA
+"1151","us_arr_why_d",NA,NA,"d)      Someone who had been contributing became pregnant/new born baby",NA
+"1152","us_arr_why_e",NA,NA,"e)      Someone who had been earning, lost pay because they were sick or injured",NA
+"1153","us_arr_why_f",NA,NA,"f)       Self-employed and income has gone down",NA
+"1154","us_arr_why_g",NA,NA,"g)      Someone was made redundant/is unemployed",NA
+"1155","us_arr_why_h",NA,NA,"h)      Someone lost overtime or worked reduced hours",NA
+"1156","us_arr_why_i",NA,NA,"i)       Someone worked same hours but for less pay",NA
+"1157","us_arr_why_j",NA,NA,"j)       There was an increase in the loan payments",NA
+"1158","us_arr_why_k",NA,NA,"k)      There was an increase in other bills or unexpected expenses/costs",NA
+"1159","us_arr_why_l",NA,NA,"l)       Other  (please specify)",NA
+"1160","us_carfin_type","You indicated that you or someone in your household currently owes money on a finance agreement arranged by a car dealer.",NA,"a)      Hire purchase (HP) agreement","Available in 2016"
+"1161",NA,"Do you know what type of car finance arrangement you currently have?",NA,"b)      Personal contract purchase (PCP) agreement",NA
+"1162",NA,NA,NA,"c)      Personal contract hire (PCH), leasing or rental agreement",NA
+"1163",NA,NA,NA,"d)      Personal loan",NA
+"1164",NA,NA,NA,"e)      Other (please specify)",NA
+"1165","us_carfin_when","When did you or someone in your household take out the car finance agreement?",NA,"a)      Less than 6 months ago","Available from 2016"
+"1166",NA,"(Again please respond based on the car finance arrangement you owe the most money on)",NA,"b)      7 – 12 months ago",NA
+"1167",NA,NA,NA,"c)      13 – 18 months ago",NA
+"1168",NA,NA,NA,"d)      19 – 24 months ago",NA
+"1169",NA,NA,NA,"e)      25 – 36 months ago",NA
+"1170",NA,NA,NA,"f)       37 – 60 months ago",NA
+"1171",NA,NA,NA,"g)      More than 5 years ago",NA
+"1172",NA,"Please indicate why you chose to take out a finance arrangement from a dealer rather than to fund your car purchase using another type of finance (e.g. using personal savings, unsecured personal loan from a bank or remortgage)?",NA,NA,"Available in 2016"
+"1173","us_carfin_why_a",NA,NA,"a)      I didn’t really consider other types of finance",NA
+"1174","us_carfin_why_b","Please select all that apply.",NA,"b)      The car dealer made the arrangement seem very attractive at the time",NA
+"1175","us_carfin_why_c",NA,NA,"c)      I wasn’t sure that I would be able to obtain sufficient finance from elsewhere (e.g. by increasing the size of the mortgage on my home or getting a personal loan)",NA
+"1176","us_carfin_why_d",NA,NA,"d)      The interest rate on the car finance deal was low",NA
+"1177","us_carfin_why_e",NA,NA,"e)      The up-front deposit with the car finance deal was low",NA
+"1178","us_carfin_why_f",NA,NA,"f)       The monthly payments with the car finance deal were low",NA
+"1179","us_carfin_why_g",NA,NA,"g)      I value the convenience and flexibility offered by the car finance deal",NA
+"1180","us_carfin_why_h",NA,NA,"h)      Other (please specify)",NA
+"1181","us_carfin_exp","Do you think you bought a more expensive vehicle than you might otherwise have chosen as a result of the finance arrangement offered to you by the dealer?",NA,"a)      Yes – I chose a vehicle that was considerably more expensive","Available in 2016"
+"1182",NA,NA,NA,"b)      Yes – I chose a vehicle that was slightly more expensive (e.g. with extra features)",NA
+"1183",NA,NA,NA,"c)      No – the finance arrangement had little or no impact on my vehicle choice",NA
+"1184",NA,NA,NA,"d)      No – I chose a cheaper vehicle as a result of the finance arrangement",NA
+"1185",NA,NA,NA,"e)      Other (please specify)",NA
+"1186","us_upl_when","You indicated that you or someone in your household currently owes money on an unsecured personal loan.",NA,"a)      Less than 6 months ago","Available from 2016"
+"1187",NA,NA,NA,"b)      7 – 12 months ago",NA
+"1188",NA,"When was this loan taken out?",NA,"c)      13 – 18 months ago",NA
+"1189",NA,NA,NA,"d)      19 – 24 months ago",NA
+"1190",NA,"If members of your household currently have more than one unsecured personal loan outstanding, please respond based on the loan with the largest outstanding balance.",NA,"e)      25 – 36 months ago",NA
+"1191",NA,NA,NA,"f)       37 – 60 months ago",NA
+"1192",NA,NA,NA,"g)      More than 5 years ago",NA
+"1193",NA,NA,NA,"h)      Don’t know",NA
+"1194",NA,NA,NA,"i)       Prefer not to say",NA
+"1195",NA,"Please indicate the reasons why you or a member of your household chose to take out a personal loan?",NA,NA,"Available from 2016"
+"1196","us_upl_purp_a",NA,NA,"a)      Debt consolidation",NA
+"1197","us_upl_purp_b","Please select all that apply.",NA,"b)      To purchase a vehicle",NA
+"1198","us_upl_purp_c",NA,NA,"c)      To pay for home improvements or large household goods",NA
+"1199","us_upl_purp_d",NA,NA,"d)      To help pay for a holiday or important life event (e.g. wedding or funeral)",NA
+"1200","us_upl_purp_e",NA,NA,"e)      To help finance a business or commercial activity",NA
+"1201","us_upl_purp_f",NA,NA,"f)       To help finance day to day spending",NA
+"1202","us_upl_purp_g",NA,NA,"g)      Other (please specify)",NA
+"1203",NA,"What actions have you taken in response to the possibility that your income may fall sharply over the next year?",NA,NA,"Available in 2016"
+"1204","uncertres1",NA,NA,"a)      Cut back on spending",NA
+"1205","uncertres2","[INSTRUCTION] Please select no more than three of the following.",NA,"b)      Increased the amount put aside as saving each month",NA
+"1206","uncertres3",NA,NA,"c)      Taken up paid employment myself",NA
+"1207","uncertres4",NA,NA,"d)      Someone else in the household has taken up paid employment",NA
+"1208","uncertres5",NA,NA,"e)      Worked longer hours/ taken a second or better paid job",NA
+"1209","uncertres6",NA,NA,"f)       Sought financial help from family/relatives",NA
+"1210","uncertres7",NA,NA,"g)      Taken out a bigger loan / arrange for larger overdraft  or credit card limit",NA
+"1211","uncertres8",NA,NA,"h)      Avoided getting into any further debt",NA
+"1212","uncertres9",NA,NA,"i)       Looked for a new job",NA
+"1213","uncertres10",NA,NA,"j)       Other (please specify)",NA
+"1214","uncertres11",NA,NA,"k)      Nothing",NA
+"1215","uncertres12",NA,NA,"k)      Don't know",NA
+"1216","uncertres13",NA,NA,"k)      Prefer not to state",NA
+"1217","con_osit","You mentioned earlier that you expect the financial position of your household to [INSERT FROM FQ02 A TO E: get a lot better/…/get a lot worse] over the next 12 months. How confident are you that the financial position of your household will [INSERT FROM FQ02 A TO E: get a lot better/…/get a lot worse] over the next 12 months?",NA,"a)      Not particularly confident – I’m not sure I know what will happen","Available in 2016"
+"1218",NA,NA,NA,"b)      Somewhat confident – I think there is a good chance this will happen",NA
+"1219",NA,NA,NA,"c)      Very confident – I’m almost certain this will happen",NA
+"1220",NA,NA,NA,"d)      Don’t know",NA
+"1221",NA,NA,NA,"e)      Prefer not to state",NA
+"1222","mrent","How much rent per month does the landlord/council/housing association charge in total for your accommodation? Please exclude any utility bills, service charge and council tax.",NA,NA,"Available from 2016"
+"1223","spend","About how much did your household spend, in total, on everything in the last month? Please include all your spending on goods and services[IF TENURE= RENT including rent], but exclude money put into savings or used to repay mortgages, overdrafts, credit cards and other loans.",NA,NA,"Available from 2016"
+"1224","con_gsit","How confident are you that the general economic situation in this country will [INSERT FROM MQ08 A TO E: get a lot better/…/get a lot worse] over the next 12 months?",NA,"a)      Not particularly confident – I’m not sure I know what will happen","Available in 2016"
+"1225",NA,NA,NA,"b)      Somewhat confident – I think there is a good chance this will happen",NA
+"1226",NA,NA,NA,"c)      Very confident – I’m almost certain this will happen",NA
+"1227",NA,NA,NA,"d)      Don’t know",NA
+"1228",NA,NA,NA,"e)      Prefer not to state",NA
+"1229","downchance","In your opinion, is the likelihood of a severe downturn in the economy:",NA,"a)      Much less than normal","Available from 2016"
+"1230",NA,NA,NA,"b)      A bit less than normal",NA
+"1231",NA,NA,NA,"c)      About the same as normal",NA
+"1232",NA,NA,NA,"d)      A bit more than normal",NA
+"1233",NA,NA,NA,"e)      A lot more than normal",NA
+"1234",NA,NA,NA,"f)       Don’t know",NA
+"1235",NA,NA,NA,"g)      Prefer not to state",NA
+"1236","industry","What does the firm/organisation you work for in your main job mainly make or do (at the place where you work)?",NA,"1.      Agriculture, forestry and fishing","Available in 2016"
+"1237",NA,NA,NA,"2.      Mining and quarrying",NA
+"1238",NA,NA,NA,"3.      Energy and water",NA
+"1239",NA,NA,NA,"4.      Manufacturing",NA
+"1240",NA,NA,NA,"5.      Construction",NA
+"1241",NA,NA,NA,"6.      Transport and storage",NA
+"1242",NA,NA,NA,"7.      Wholesale, retail, hotels and restaurants",NA
+"1243",NA,NA,NA,"8.      Information, communication and IT",NA
+"1244",NA,NA,NA,"9.      Banking, finance and insurance",NA
+"1245",NA,NA,NA,"10.   Real estate activities",NA
+"1246",NA,NA,NA,"11.   Professional, scientific and technical activities",NA
+"1247",NA,NA,NA,"12.   Administrative and support service activities",NA
+"1248",NA,NA,NA,"13.   Public administration, defence, education and health",NA
+"1249",NA,NA,NA,"14.   Arts, entertainment and recreation",NA
+"1250",NA,NA,NA,"15.   Other services",NA
+"1251",NA,NA,NA,NA,NA
+"1252","firmsize","Approximately how many people are employed in this firm/organisation (in total, not just at the place where you work) – are there …",NA,"a)  1 to 10","Available in 2016"
+"1253",NA,NA,NA,"b)  11 to 24",NA
+"1254",NA,NA,NA,"c)  25 to 49",NA
+"1255",NA,NA,NA,"d)  50 to 249",NA
+"1256",NA,NA,NA,"e)  250 to 499",NA
+"1257",NA,NA,NA,"f)  500 or more",NA
+"1258",NA,NA,NA,"g)  Don’t know",NA
+"1259",NA,NA,NA,"h)  Prefer not to state",NA
+"1260","brexit","Taking everything into account, how do you view the UK voting to leave the EU (European Union) in the recent referendum – which has become known as ‘Brexit’?",NA,"a)      Very positive about the result","Available in 2016"
+"1261",NA,NA,NA,"b)      Somewhat positive",NA
+"1262",NA,NA,NA,"c)      No opinion",NA
+"1263",NA,NA,NA,"d)      Somewhat negative",NA
+"1264",NA,NA,NA,"e)      Very negative",NA
+"1265","boec1","The Bank of England Base Rate was lowered in August from 0.5% to 0.25%.  Has the interest rate you pay on your mortgage fallen as a result or have you been notified that it will fall shortly?",NA,"a.      Yes, I am now paying a lower rate of interest","Available in 2016"
+"1266",NA,NA,NA,"b.      Yes, I have been notified it will fall shortly",NA
+"1267",NA,NA,NA,"c.      No, my mortgage interest rate has not changed as a result of the fall in Base Rate",NA
+"1268",NA,NA,NA,"d.      Don’t know",NA
+"1269",NA,NA,NA,"e.      Prefer not to state",NA
+"1270","boec2","Had the reduced interest rate already been applied to the last payment you made, which you mentioned was £[insert amount/range from BE08]?",NA,"a.      Yes","Available in 2016"
+"1271",NA,NA,NA,"b.      No - it won’t apply until my next payment",NA
+"1272",NA,NA,NA,"c.      Don’t know",NA
+"1273",NA,NA,NA,"d.      Prefer not to state",NA
+"1274","boec3","In 12 months’ time do you think the interest rate you pay on your mortgage will be higher or lower than [IF A/C/D/E AT BOEC1 it is now] [IF B AT BOEC1 the rate you have been notified you are about to pay]? Please assume everything else about the mortgage will stay the same – i.e. the amount borrowed, the length of the mortgage.",NA,"a.      Higher","Available in 2016"
+"1275",NA,NA,NA,"b.      The same",NA
+"1276",NA,NA,NA,"c.      Lower",NA
+"1277",NA,NA,NA,"d.      Don’t know",NA
+"1278",NA,NA,NA,"e.      Prefer not to state",NA
+"1279","us_cc_payment","Which of the following best describes how you or members of your household paid the most recent credit card bill?",NA,"a)      Paid off the bill in full","Available from 2016"
+"1280",NA,NA,NA,"b)      Made the minimum payment only – but have an interest free offer",NA
+"1281",NA,NA,NA,"c)      Made the minimum payment only – paying interest on the remaining balance",NA
+"1282",NA,NA,NA,"d)      Did not pay off in full but paid more than the minimum – have an interest free offer",NA
+"1283",NA,NA,NA,"e)      Did not pay off in full but paid more than the minimum – paying interest on balance",NA
+"1284",NA,NA,NA,"f)       Did not make any payment or made less than minimum payment",NA
+"1285",NA,NA,NA,"g)      Don’t know",NA
+"1286",NA,NA,NA,"h)      Prefer not to state",NA
+"1287",NA,"[Ask all] Do you think the general availability of credit has changed following the UK voting to leave the EU (vote for Brexit)?",NA,NA,"Available in 2016"
+"1288",NA,"Please select all that apply.",NA,NA,NA
+"1289","boec6_1",NA,NA,"a)      Yes, I think mortgages are now more difficult for people to obtain",NA
+"1290","boec6_2",NA,NA,"b)      Yes, I think mortgages are now easier for people to obtain",NA
+"1291","boec6_3",NA,NA,"c)       Yes, I think other credit (personal loan, credit card, car finance etc) is now more difficult for people to obtain",NA
+"1292","boec6_4",NA,NA,"d)      Yes, I think other credit (personal loan, credit card, car finance etc) is now easier for people to obtain",NA
+"1293","boec6_5",NA,NA,"e)      No, I don’t think there has been any change",NA
+"1294","boec6_6",NA,NA,"f)       Don’t know",NA
+"1295","boec6_7",NA,NA,"g)      Prefer not to state",NA
+"1296","boec7","[Ask all] Has the overall amount of money you would like to borrow over the next 12 months been affected by the vote for Brexit?",NA,"a)      A lot more","Available in 2016"
+"1297",NA,NA,NA,"b)      A little more",NA
+"1298",NA,"Including all types of borrowing (e.g. credit cards, loans, mortgages) and compared to how things would have been if the UK had voted to remain in the EU, would you now like to borrow:",NA,"c)      The referendum result has made no difference",NA
+"1299",NA,NA,NA,"d)      A little less",NA
+"1300",NA,NA,NA,"e)      A lot less",NA
+"1301",NA,NA,NA,"f)       Don’t know",NA
+"1302",NA,NA,NA,"g)      Prefer not to state",NA
+"1303","boec8a","[Ask if BOEC7=a, b, d or e] Which types of credit would you like to borrow [more/less; insert from BOEC7] of because of the vote for Brexit?",NA,"a)      Mortgage","Available in 2016"
+"1304",NA,NA,NA,"b)      Personal loan",NA
+"1305",NA,"Please select all that apply.",NA,"c)      Credit card",NA
+"1306",NA,NA,NA,"d)      Student loan",NA
+"1307",NA,NA,NA,"e)      Car finance arranged at a dealership",NA
+"1308",NA,NA,NA,"f)       Overdraft",NA
+"1309",NA,NA,NA,"g)      Payday loan",NA
+"1310",NA,NA,NA,"h)      Other (please specify)",NA
+"1311",NA,NA,NA,"i)       Don’t know",NA
+"1312",NA,NA,NA,"j)       Prefer not to state",NA
+"1313","brexit_sellhouse","How do you think the vote for Brexit has affected how likely you are to sell your main residential home over the next 12 months (either to buy another property to live in or move to other accommodation)? ",NA,"a)      A lot more likely to sell","Available in 2016"
+"1314",NA,NA,NA,"b)      A little more likely to sell",NA
+"1315",NA,"Compared to how things would have been if the UK had voted to remain in the EU, are you:",NA,"c)      The referendum result has made no difference",NA
+"1316",NA,NA,NA,"d)      A little less likely to sell",NA
+"1317",NA,NA,NA,"e)      A lot less likely to sell",NA
+"1318",NA,NA,NA,"f)       Don’t know",NA
+"1319",NA,NA,NA,"g)      Prefer not to state",NA
+"1320","brexit_buyhouse","[Ask all]: How do you think the vote for Brexit has affected how likely you are to buy a new main residential home over the next 12 months (whether moving or buying for the first time)?",NA,"a)      A lot more likely to buy","Available in 2016"
+"1321",NA,NA,NA,"b)      A little more likely to buy",NA
+"1322",NA,"Compared to how things would have been if the UK had voted to remain in the EU, are you:",NA,"c)      The referendum result has made no difference",NA
+"1323",NA,NA,NA,"d)      A little less likely to buy",NA
+"1324",NA,NA,NA,"e)      A lot less likely to buy",NA
+"1325",NA,NA,NA,"f)       Don’t know",NA
+"1326",NA,NA,NA,"g)      Prefer not to state",NA
+"1327","savingch_d","Over the next year, are you planning to change the amount of money you save each month? Please exclude any contributions to pension schemes.",NA,"a)      Increase","Available in 2016"
+"1328",NA,NA,NA,"b)      Stay the same",NA
+"1329",NA,NA,NA,"c)      Decrease",NA
+"1330",NA,NA,NA,"d)      Don’t know",NA
+"1331",NA,NA,NA,"e)      Prefer not to state",NA
+"1332","savingch_in","Over the next year, by how much do you plan to [insert increase/decrease from planned changed] the amount of money you save each month? Please exclude any contributions to pension schemes.",NA,NA,"Available in 2016"
+"1333","savingch_de",NA,NA,NA,"savingch_in relates to a savings increase"
+"1334",NA,"Please try to be as accurate as possible, entering an amount in pounds without any decimals (you do not need to use all the nine spaces for digits).",NA,NA,"savingch_de relates to a savings decrease"
+"1335","hhfinbrex","How do you expect the vote for Brexit to affect the financial position of your household over the next 12 months?",NA,"a)      Get a lot better","Available in 2016"
+"1336",NA,NA,NA,"b)      Get a little better",NA
+"1337",NA,"Compared to how things would have been if the UK had voted to remain in the EU, will things:",NA,"c)      The referendum result has made no difference",NA
+"1338",NA,NA,NA,"d)      Get a little worse",NA
+"1339",NA,NA,NA,"e)      Get a lot worse",NA
+"1340",NA,NA,NA,"f)       Don’t Know",NA
+"1341",NA,NA,NA,"g)      Prefer not to state",NA
+"1342","jobloseexp1","To the best of your knowledge, what would you say is the likelihood that you will lose your job during the next 12 months?",NA,"a) Very unlikely, my job is very secure","Available from 2016"
+"1343",NA,NA,NA,"b) Unlikely, but there is a chance I will lose my job",NA
+"1344",NA,NA,NA,"c) Quite likely, my job is not very secure",NA
+"1345",NA,NA,NA,"d) Almost definite, I do not expect my job to last",NA
+"1346",NA,NA,NA,"e) Don’t know",NA
+"1347",NA,NA,NA,"f) Prefer not to state",NA
+"1348","jobloseperc","What do you think is the percent chance that you will lose your job during the next 12 months?",NA,NA,"Available in 2016"
+"1349",NA,NA,NA,NA,NA
+"1350",NA,"[INSERT SLIDER TO SELECT ANY WHOLE NUMBER BETWEEN 0 AND 100]",NA,NA,NA
+"1351","joblosebrex","How do you think the vote for Brexit has affected the likelihood of you losing your job over the next 12 months?",NA,NA,"Available in 2016"
+"1352",NA,NA,NA,NA,NA
+"1353",NA,"Compared to how things would have been if the UK had voted to remain in the EU, has the likelihood of you losing your job:",NA,NA,NA
+"1354","rentincr_m","Using the following ranges, could you state how much your monthly rent payments could increase by without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or move house?",NA,"a.      Unable to meet any increases in rent","Available from 2016"
+"1355",NA,NA,NA,"b.      £1-49",NA
+"1356",NA,NA,NA,"c.      £50-99",NA
+"1357",NA,NA,NA,"d.      £100-149",NA
+"1358",NA,NA,NA,"e.      £150-199",NA
+"1359",NA,NA,NA,"f.       £200-299",NA
+"1360",NA,NA,NA,"g.      £300-399",NA
+"1361",NA,NA,NA,"h.      £400-499",NA
+"1362",NA,NA,NA,"i.       £500-599",NA
+"1363",NA,NA,NA,"j.       £600-699",NA
+"1364",NA,NA,NA,"k.      £700-799",NA
+"1365",NA,NA,NA,"l.       £800-899",NA
+"1366",NA,NA,NA,"m.    £900-999",NA
+"1367",NA,NA,NA,"n.      £1000-1499",NA
+"1368",NA,NA,NA,"o.     >£1500",NA
+"1369","brexit_hhspending","How do you expect the vote for Brexit to affect your household’s spending over the next 12 months? Please exclude money put into savings and repayment of bank loans.",NA,"a)      Increase a lot","Available from 2016"
+"1370",NA,NA,NA,"b)      Increase a little",NA
+"1371",NA,"Compared to how things would have been if the UK had voted to remain in the EU, will your spending:",NA,"c)      The referendum result has made no difference",NA
+"1372",NA,NA,NA,"d)      Decrease a little",NA
+"1373",NA,NA,NA,"e)      Decrease a lot",NA
+"1374",NA,NA,NA,"f)       Don’t know",NA
+"1375",NA,NA,NA,"g)      Prefer not to state",NA
+"1376","hpspend","We would like to get an understanding of how changes in house prices may impact people’s attitude to spending in general.",NA,"a)      We would spend more","Available in 2013 and 2016"
+"1377",NA,"How do you think your household spending would be affected if house prices were to increase by 10% in the next year? Would you say..",NA,"b)      We would spend less",NA
+"1378",NA,NA,NA,"c)      Our household spending would not be affected",NA
+"1379",NA,NA,NA,"d)      Don’t know",NA
+"1380","hpspend_de","How do you think your household spending would be affected if house prices were to decrease by 10% in the next year? Would you say..",NA,"a)      We would spend more","Available in 2016"
+"1381",NA,NA,NA,"b)      We would spend less",NA
+"1382",NA,NA,NA,"c)      Our household spending would not be affected",NA
+"1383",NA,NA,NA,"d)      Don’t know",NA
+"1384","brexit_uk_unem","How do you expect the vote for Brexit to affect the number of people unemployed in this country over the next 12 months?",NA,"a)      Increase sharply","Available in 2016"
+"1385",NA,NA,NA,"b)      Increase slightly",NA
+"1386",NA,"Compared to how things would have been if the UK had voted to remain in the EU, will the number of unemployed people:",NA,"c)      The referendum result has made no difference",NA
+"1387",NA,NA,NA,"d)      Fall slightly",NA
+"1388",NA,NA,NA,"e)      Fall sharply",NA
+"1389",NA,NA,NA,"f)       Don’t Know",NA
+"1390","brexit_uk_econ","How do you expect the vote for Brexit to affect the general economic situation of this country over the next 12 months?",NA,"a)      Get a lot better","Available from 2016"
+"1391",NA,NA,NA,"b)      Get a little better",NA
+"1392",NA,"Compared to how things would have been if the UK had voted to remain in the EU, will things:",NA,"c)      The referendum result has made no difference",NA
+"1393",NA,NA,NA,"d)      Get a little worse",NA
+"1394",NA,NA,NA,"e)      Get a lot worse",NA
+"1395",NA,NA,NA,"f)       Don’t Know",NA
+"1396",NA,NA,NA,"g)      Prefer not to state",NA
+"1397","btl_brexit","How do you think that the vote for Brexit has affected how likely you are to sell at least one of your buy-to-let properties over the next 12 months?",NA,"a)      A lot more likely to sell","Available in 2016"
+"1398",NA,NA,NA,"b)      A little more likely to sell",NA
+"1399",NA,"Compared to how things would have been if the UK had voted to remain in the EU, are you:",NA,"c)      The referendum result has made no difference",NA
+"1400",NA,NA,NA,"d)      A little less likely to sell",NA
+"1401",NA,NA,NA,"e)      A lot less likely to sell",NA
+"1402",NA,NA,NA,"f)      Don’t know",NA
+"1403",NA,NA,NA,"g)      Prefer not to state",NA
+"1404","btl_m1","Do you have a mortgage on any of your buy-to-let properties?",NA,"a)      No - I don’t have a mortgage on any of my buy-to-let properties","Available in 2016"
+"1405",NA,NA,NA,"b)      Yes - I have capital and interest repayment buy-to-let mortgages",NA
+"1406",NA,NA,NA,"c)      Yes - I have interest only buy-to-let mortgages",NA
+"1407",NA,NA,NA,"d)      Yes - I have a mixture of interest only and capital and interest repayment buy-to-let mortgages",NA
+"1408",NA,NA,NA,"e)      Don’t know",NA
+"1409",NA,NA,NA,"f)       Prefer not to state",NA
+"1410","btl_rentincr","Thinking about all your buy-to-let properties, how much capacity do you have to increase rents without risking your properties becoming unoccupied?",NA,"a)      There isn’t much capacity to increase rents","Available in 2016"
+"1411",NA,NA,NA,"b)      Increase of up to 2.4%",NA
+"1412",NA,"When answering this question, it may be useful to think about how the rent currently paid by your tenants compares to the rent achievable if you were to market your properties today.",NA,"c)      Increase of 2.5% to 4.9%",NA
+"1413",NA,NA,NA,"d)      Increase of 5.0% to 7.4%",NA
+"1414",NA,NA,NA,"e)      Increase of 7.5% to 9.9%",NA
+"1415",NA,NA,NA,"f)       Increase of 10% to 14.9%",NA
+"1416",NA,NA,NA,"g)      Increase of 15% to 19.9%",NA
+"1417",NA,NA,NA,"h)      Increase of 20% to 24.9%",NA
+"1418",NA,NA,NA,"i)       Increase of 25% or more",NA
+"1419",NA,NA,NA,"j)       Don’t know",NA
+"1420",NA,NA,NA,"k)      Prefer not to state",NA
+"1421",NA,"If you were to find yourself in financial difficulty and you had no choice but to stop paying some bills/debts in order to make ends meet, in which order would you stop paying the following commitments?",NA,NA,"Available from 2017"
+"1422","condebt_stop_1","Please place these in order, where 1 is the item you would stop paying first.",NA,"Mortgage",NA
+"1423","condebt_stop_2",NA,NA,"Rent",NA
+"1424","condebt_stop_3",NA,NA,"Utility bills (gas, electricity, water)",NA
+"1425","condebt_stop_4",NA,NA,"Mobile/telephone contract",NA
+"1426","condebt_stop_5",NA,NA,"Credit card",NA
+"1427","condebt_stop_6",NA,NA,"Personal loan",NA
+"1428","condebt_stop_7",NA,NA,"Car finance arranged at a dealer",NA
+"1429","condebt_stop_8",NA,NA,"Overdraft",NA
+"1430","spq07a_m","Approximately how much more rent, if any, could you pay a month (above what you already pay) for a sustained period without you having to take some kind of action to find the extra money e.g. cut spending, work longer hours, or move house?",NA,"£ []","Available from 2017"
+"1431",NA,"If your monthly rent payments were to increase for a sustained period by £k from tomorrow, how do you think you would respond?  Please assume your income would not be any higher unless you take action to increase it.",NA,NA,"Available from 2017"
+"1432","hr_r_resp1",NA,NA,"Cut back on spending",NA
+"1433","hr_r_resp2",NA,NA,"Use savings/ put less aside as saving each month",NA
+"1434","hr_r_resp3",NA,NA,"Take up paid employment myself",NA
+"1435","hr_r_resp4",NA,NA,"Someone else in my household would take up paid employment",NA
+"1436","hr_r_resp5",NA,NA,"Work longer hours / take a second or better paid job",NA
+"1437","hr_r_resp6",NA,NA,"Get financial help from family / relatives",NA
+"1438","hr_r_resp8",NA,NA,"Move to a property with lower rent",NA
+"1439","hr_r_resp10",NA,NA,"Other (please specify)",NA
+"1440","hr_r_resp11",NA,NA,"Don’t know",NA
+"1441","hr_r_resp12",NA,NA,"Prefer not to state",NA
+"1442","hr_r_resp13",NA,NA,"Pay less than the required amount on one or more obligations (eg rent, utility bills, debt repayment)",NA
+"1443","spq08ab_m","How much would you reduce your monthly spending by if your monthly rent payments were to increase for a sustained period by £k from tomorrow?  [£k is calculated automatically from software as the rent payment under a 15% monthly increase]",NA,"£ []","Available from 2017"
+"1444","spq10","Now imagine that there is a very sharp increase in rents in your area.  Imagine also that the increase in rent you face is so large that you have no choice but to move to a cheaper home (for example, finding a smaller home, moving to a cheaper area, or moving in with relatives). In your opinion, how difficult would it be to find a solution that satisfies your household’s needs within 12 months?",NA,NA,"Available from 2017"
+"1445",NA,NA,NA,"a)      Not a problem",NA
+"1446",NA,NA,NA,"b)      Quite difficult",NA
+"1447",NA,NA,NA,"c)       Extremely difficult",NA
+"1448",NA,NA,NA,"d)      Virtually impossible",NA
+"1449",NA,NA,NA,"e)      Don’t know",NA
+"1450",NA,NA,NA,"f)       Prefer not to state",NA
+"1451","us_carfin_alt","If you hadn’t been able to obtain a finance arrangement with the car dealer, which of the following would have been most likely?",NA,NA,"Available from 2017"
+"1452",NA,NA,NA,"I probably would not have purchased a vehicle at all",NA
+"1453",NA,NA,NA,"I probably would have purchased a vehicle – but a cheaper one",NA
+"1454",NA,NA,NA,"I probably would have purchased the same vehicle – but using finance/a loan from elsewhere",NA
+"1455",NA,NA,NA,"I probably would have purchased the same vehicle – but using savings",NA
+"1456",NA,NA,NA,"Other (please specify)",NA
+"1457",NA,NA,NA,"Don’t know",NA
+"1458",NA,NA,NA,"Prefer not to say",NA
+"1459","chmort","Using the following ranges, could you state when you last took out a mortgage or secured loan on your main home, or made a change to the amount borrowed on remortgaged or took out an additional loan and refer to the most recent time only.",NA,NA,NA
+"1460",NA,"an existing mortgage or secured loan on this property? Please include whenever you moved house,",NA,NA,"Available from 2017"
+"1461",NA,NA,NA,"a)      1979 or earlier",NA
+"1462",NA,NA,NA,"b)      1980-89",NA
+"1463",NA,NA,NA,"c)       1990-94",NA
+"1464",NA,NA,NA,"d)      1995-99",NA
+"1465",NA,NA,NA,"e)      2000-03",NA
+"1466",NA,NA,NA,"f)       2004-07",NA
+"1467",NA,NA,NA,"g)      2008-11",NA
+"1468",NA,NA,NA,"h)      2012-14",NA
+"1469",NA,NA,NA,"i)        2015-16",NA
+"1470",NA,NA,NA,"j)        2017",NA
+"1471",NA,NA,NA,"k)      Don’t know",NA
+"1472",NA,NA,NA,"l)        Prefer not to state",NA
+"1473","chmort_c","When last took out/changed mortgage - continuous measure",NA,NA,"Available from 2017"
+"1474","bought_n","Using the following ranges, could you state when you bought your home?",NA,NA,NA
+"1475",NA,NA,NA,NA,"Available from 2017"
+"1476",NA,NA,NA,"a)      1979 or earlier",NA
+"1477",NA,NA,NA,"b)      1980-89",NA
+"1478",NA,NA,NA,"c)       1990-94",NA
+"1479",NA,NA,NA,"d)      1995-99",NA
+"1480",NA,NA,NA,"e)      2000-03",NA
+"1481",NA,NA,NA,"f)       2004-07",NA
+"1482",NA,NA,NA,"g)      2008-11",NA
+"1483",NA,NA,NA,"h)      2012-14",NA
+"1484",NA,NA,NA,"i)        2015 -16",NA
+"1485",NA,NA,NA,"j)        2017",NA
+"1486",NA,NA,NA,"k)      Don’t know",NA
+"1487",NA,NA,NA,"l)        Prefer not to state",NA
+"1488","bought_c","When bought last home - continuous measure",NA,NA,"Available from 2017"
+"1489","considmovmain","Have you considered moving to another property since the beginning of 2017? Please select all answers that apply.",NA,NA,NA
+"1490",NA,NA,NA,"a)      No – I’m happy where I am","Available in 2015 and 2017"
+"1491",NA,NA,NA,"b)      Yes – I’m in the process of moving",NA
+"1492",NA,NA,NA,"c)       Yes – but the costs of moving (stamp duty, estate agent and solicitor fees) are too high",NA
+"1493",NA,NA,NA,"d)      Yes – but my current mortgage deal is too good to change",NA
+"1494",NA,NA,NA,"e)      Yes – but I would not be able to increase my mortgage sufficiently to make it worthwhile to move",NA
+"1495",NA,NA,NA,"f)       Yes – but I haven’t been able to find a suitable property",NA
+"1496",NA,NA,NA,"g)      Yes – but my house is worth less than when I bought it",NA
+"1497",NA,NA,NA,"h)      Yes – but I can’t find anyone to buy my house",NA
+"1498",NA,NA,NA,"i)        Other (please specify)",NA
+"1499",NA,NA,NA,"j)        Don’t know",NA
+"1500",NA,NA,NA,"k)      Prefer not to state",NA
+"1501",NA,NA,NA,NA,NA
+"1502",NA,NA,NA,"i), k) and respondents choosing multiple options (very small number) set equal to missing",NA
+"1503",NA,NA,NA,NA,NA
+"1504","Easeofmoving","Now imagine that there is a very sharp increase in mortgage rates.",NA,NA,NA
+"1505",NA,"Imagine also that the increase in mortgage payments you face is so large that you have no choice but to move to a cheaper home (for example, finding a smaller home, moving to a cheaper area, or moving in with relatives). to find a solution that satisfies your household’s needs within 12 months?",NA,"a)      Not a problem","Available from 2017"
+"1506",NA,"In your opinion, how difficult would it be to find a solution that satisfies your household’s needs within 12 months?",NA,"b)      Quite difficult",NA
+"1507",NA,NA,NA,"c)       Extremely difficult",NA
+"1508",NA,NA,NA,"d)      Virtually impossible",NA
+"1509",NA,NA,NA,"e)      Don’t know",NA
+"1510",NA,NA,NA,"f)       Prefer not to state",NA
+"1511",NA,NA,NA,NA,NA
+"1512","Lastmovedhouse","How long have you lived in your current property?",NA,NA,NA
+"1513",NA,NA,NA,"How long have you lived in your current property?","Available from 2017"
+"1514",NA,NA,NA,"a)      Less than 12 months",NA
+"1515",NA,NA,NA,"b)      1 – 2 years",NA
+"1516",NA,NA,NA,"c)       3 – 5 years",NA
+"1517",NA,NA,NA,"d)      6 – 10 years",NA
+"1518",NA,NA,NA,"e)      More than 10 years",NA
+"1519",NA,NA,NA,"f)       Don’t know",NA
+"1520",NA,NA,NA,"g)      Prefer not to state",NA
+"1521","Foundoutmortgage","Which of the following explanations best describes how you found out you could not obtain a mortgage?",NA,NA,NA
+"1522",NA,NA,NA,"a)      Media reports addressing difficulty of obtaining a mortgage",NA
+"1523",NA,NA,NA,"b)      Family, friends or social media","Available from 2017"
+"1524",NA,NA,NA,"c)       Online mortgage calculator",NA
+"1525",NA,NA,NA,"d)      Discussion with mortgage advisor",NA
+"1526",NA,NA,NA,"e)      Failed mortgage application",NA
+"1527",NA,NA,NA,"f)       Other (please specify)",NA
+"1528",NA,NA,NA,"g)      Don’t know",NA
+"1529",NA,NA,NA,"h)      Prefer not to state",NA
