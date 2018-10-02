@@ -7,8 +7,8 @@ example <- NMG_2017 %>%
   select(c("X", paste0("actdebt", seq(1, 11))), "age_grp")
 g_data <- melt(example, c("X", "age_grp"))%>%
   group_by(variable, age_grp)%>%
-  rowwise()%>%
-  mutate(count(variable)/count(age_grp))
+  #rowwise()%>%
+  count(value)
 g <- ggplot(data = g_data, 
             aes(x = variable, 
                 y = n))
