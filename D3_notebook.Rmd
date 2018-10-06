@@ -7,6 +7,18 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(r2d3)
 ```
 
+
+
 ## Using D3 in Rstudio
+
+This notebook gives a brief demo of how to create various D3 visualisations using the NMG data set as an exemplar. RStudio 2.1 and up gives support for writing D3 scripts. Below is the simplest call for a D3 script - data is passed in the data argument and is then passed to the created D3 script in the second. The example below is the default script that is loaded. 
+
+```{r}
+r2d3::r2d3(data=c(0.3, 0.6, 0.8, 0.95, 0.40, 0.5), script="plot1.js")
+```
+
+
+
