@@ -1,4 +1,5 @@
 ## gg-FUN!
+setwd("NMG_analysis/")
 library(ggplot2)
 library(reshape2)
 library(dplyr)
