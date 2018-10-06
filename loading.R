@@ -1,10 +1,10 @@
 #Analysing the NMG survey
 library(readxl)
 library(dplyr)
-setwd("Documents/NMG_analysis/")
+setwd("NMG_analysis/")
 rm(list = ls())
 download.file(url = "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boe-nmg-household-survey-data---2011-17.xlsx?la=en&hash=DB481E590DCFBCC508BC093291721EF5720CB7BE",
-              destfile = "NMG.xlsx", mode = "wb")
+              destfile = "data/NMG.xlsx", mode = "wb")
 data_desc <- read_xlsx(path = "NMG.xlsx", sheet = 1)
 data_dict <- read_xlsx(path = "NMG.xlsx", sheet = 2)
 NMG_2017 <- read_xlsx(path = "NMG.xlsx", sheet = 3)
